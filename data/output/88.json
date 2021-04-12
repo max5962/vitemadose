@@ -1,0 +1,467 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-12T09:04:10.814267+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "88",
+      "nom": "Pharmacie Evrard",
+      "url": "https://mapharma.net/88300",
+      "ville": "neufchateau",
+      "location": null,
+      "metadata": {
+        "address": "1 rue Neuve 88300 NEUFCHATEAU",
+        "business_hours": null
+      },
+      "prochain_rdv": "2021-04-12T09:30:00",
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 60,
+      "internal_id": null,
+      "gid": "88300-0"
+    },
+    {
+      "departement": "88",
+      "nom": "Pharmacie Bertrand",
+      "url": "https://mapharma.net/88150",
+      "ville": "thaon-les-vosges",
+      "location": null,
+      "metadata": {
+        "address": "2 Rue de Lorraine 88150 THAON LES VOSGES",
+        "business_hours": null
+      },
+      "prochain_rdv": "2021-04-12T09:40:00",
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 60,
+      "internal_id": null,
+      "gid": "88150-0"
+    },
+    {
+      "departement": "88",
+      "nom": "Pharmacie Bruelle",
+      "url": "https://mapharma.net/88100",
+      "ville": "saint-die-des-vosges",
+      "location": null,
+      "metadata": {
+        "address": "120 Rue d'Alsace 88100 SAINT DIE DES VOSGES",
+        "business_hours": null
+      },
+      "prochain_rdv": "2021-04-12T10:00:00",
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 50,
+      "internal_id": null,
+      "gid": "88100-0"
+    },
+    {
+      "departement": "88",
+      "nom": "Pharmacie Des Lacs",
+      "url": "https://mapharma.net/88400",
+      "ville": "xonrupt-longemer",
+      "location": null,
+      "metadata": {
+        "address": "158 rue de l'H\u00f4tel de Ville 88400 XONRUPT LONGEMER",
+        "business_hours": null
+      },
+      "prochain_rdv": "2021-04-12T18:00:00",
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 10,
+      "internal_id": null,
+      "gid": "88400-0"
+    },
+    {
+      "departement": "88",
+      "nom": "Centre de vaccination d'Epinal (Palais des congr\u00e8s)",
+      "url": "https://partners.doctolib.fr/hopital-public/epinal/ch-emile-durkheim?pid=practice-164046",
+      "ville": "epinal",
+      "location": {
+        "longitude": 6.47144,
+        "latitude": 48.1861
+      },
+      "metadata": {
+        "address": "7 Avenue de Saint Die, 88000 \u00c9pinal",
+        "phone_number": "+33329666220",
+        "business_hours": {
+          "lundi": "14:00-18:30",
+          "mardi": "14:00-18:30",
+          "mercredi": "14:00-18:30",
+          "jeudi": "14:00-18:30",
+          "vendredi": "14:00-18:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-05T11:45:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 146,
+      "internal_id": "240764[164046]",
+      "gid": "1309"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "88",
+      "nom": "Centre de vaccination de Remiremont",
+      "url": "https://partners.doctolib.fr/hopital-public/remiremont/ch-remiremont",
+      "ville": "remiremont",
+      "location": {
+        "longitude": 6.59247,
+        "latitude": 48.0142
+      },
+      "metadata": {
+        "address": "1 Rue Georges Lang, 88200 Remiremont",
+        "phone_number": "+33329666221",
+        "business_hours": {
+          "lundi": "14:00-19:00",
+          "mardi": "14:00-19:00",
+          "mercredi": "14:00-19:00",
+          "jeudi": "14:00-19:00",
+          "vendredi": "14:00-19:00",
+          "samedi": "14:00-19:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240769[]",
+      "gid": "225"
+    },
+    {
+      "departement": "88",
+      "nom": "Centre de vaccination de Gerardmer",
+      "url": "https://partners.doctolib.fr/hopital-public/gerardmer/ch-de-gerardmer?pid=practice-163880",
+      "ville": "gerardmer",
+      "location": {
+        "longitude": 6.87333,
+        "latitude": 48.0682
+      },
+      "metadata": {
+        "address": "16 Rue Charles de Gaulle, 88400 G\u00e9rardmer",
+        "phone_number": "+33329606075",
+        "business_hours": {
+          "lundi": "9:00-12:00/13:30-17:30",
+          "mardi": "ferm\u00e9",
+          "mercredi": "9:00-12:00/13:30-17:30",
+          "jeudi": "9:00-12:00/13:30-17:30",
+          "vendredi": "9:00-12:00/13:30-17:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241897[163880]",
+      "gid": "1307"
+    },
+    {
+      "departement": "88",
+      "nom": "Centre de vaccination de Mirecourt",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163781",
+      "ville": "mirecourt",
+      "location": {
+        "longitude": 6.11147,
+        "latitude": 48.2965
+      },
+      "metadata": {
+        "address": "1115 Avenue Ren\u00e9 Porterat, 88500 Mirecourt",
+        "phone_number": "+33329370077",
+        "business_hours": {
+          "lundi": "08:30-16:30",
+          "mardi": "08:30-16:30",
+          "mercredi": "08:30-16:30",
+          "jeudi": "08:30-16:30",
+          "vendredi": "08:30-16:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[163781]",
+      "gid": "937"
+    },
+    {
+      "departement": "88",
+      "nom": "Centre de vaccination de Neufchateau",
+      "url": "https://partners.doctolib.fr/hopital-public/neufchateau/centre-de-vaccination-covid-neufchateau-et-vittel",
+      "ville": "neufchateau",
+      "location": {
+        "longitude": 5.7077,
+        "latitude": 48.3704
+      },
+      "metadata": {
+        "address": "1280 Avenue de la Division Leclerc, 88300 Neufch\u00e2teau",
+        "phone_number": "+33329948605",
+        "business_hours": {
+          "lundi": "14:00-18:00",
+          "mardi": "14:00-18:00",
+          "mercredi": "14:00-18:00",
+          "jeudi": "14:00-18:00",
+          "vendredi": "14:00-18:00",
+          "samedi": "14:00-18:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243063[166382]",
+      "gid": "219"
+    },
+    {
+      "departement": "88",
+      "nom": "Centre de vaccination de St Di\u00e9 des Vosges (Palais Omnisports)",
+      "url": "https://partners.doctolib.fr/hopital-public/saint-die-des-vosges/mairie-saint-die-des-vosges",
+      "ville": "saint-die-des-vosges",
+      "location": {
+        "longitude": 6.94806,
+        "latitude": 48.2879
+      },
+      "metadata": {
+        "address": "12 Rue du 12 i\u00e8me R\u00e9giment d'Artillerie prolong\u00e9e, 88100 Saint-Di\u00e9-des-Vosges",
+        "phone_number": "+33329421675",
+        "business_hours": {
+          "lundi": "08:30-12:30/13:30-17:30",
+          "mardi": "08:30-12:30/13:30-17:30",
+          "mercredi": "08:30-12:30/13:30-17:30",
+          "jeudi": "08:30-12:30/13:30-17:30",
+          "vendredi": "08:30-12:30/13:30-17:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240924[179712]",
+      "gid": "202"
+    },
+    {
+      "departement": "88",
+      "nom": "Centre de vaccination d'Epinal (CH Emile Durkheim)",
+      "url": "https://partners.doctolib.fr/hopital-public/\u00e9pinal/ch-emile-durkheim",
+      "ville": "epinal",
+      "location": {
+        "longitude": 6.4541,
+        "latitude": 48.1794
+      },
+      "metadata": {
+        "address": "3 Avenue Robert Schuman, 88000 \u00c9pinal",
+        "phone_number": "+33329666220",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240764[162861]",
+      "gid": "227"
+    },
+    {
+      "departement": "88",
+      "nom": "Pharmacie De La Poste",
+      "url": "https://mapharma.net/88160-2",
+      "ville": "le-thillot",
+      "location": null,
+      "metadata": {
+        "address": "26 rue Charles de Gaulle 88160 LE THILLOT",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "88160-2"
+    },
+    {
+      "departement": "88",
+      "nom": "Pharmacie Des Sources",
+      "url": "https://mapharma.net/88540",
+      "ville": "bussang",
+      "location": null,
+      "metadata": {
+        "address": "3 place de la Mairie 88540 BUSSANG",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "88540-0"
+    },
+    {
+      "departement": "88",
+      "nom": "Pharmacie Des Arcades",
+      "url": "https://mapharma.net/88160-1",
+      "ville": "le-thillot",
+      "location": null,
+      "metadata": {
+        "address": "2c rue des Tilleuls 88160 LE THILLOT",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "88160-1"
+    },
+    {
+      "departement": "88",
+      "nom": "Pharmacie Du Saut Le Cerf",
+      "url": "https://mapharma.net/88000",
+      "ville": "epinal",
+      "location": null,
+      "metadata": {
+        "address": "7 route de Jeuxey 88000 EPINAL",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "88000-0"
+    },
+    {
+      "departement": "88",
+      "nom": "Pharmacie D'Alice",
+      "url": "https://mapharma.net/88120",
+      "ville": "vagney",
+      "location": null,
+      "metadata": {
+        "address": "12 rue Ren\u00e9 Demangeon 88120 VAGNEY",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "88120-0"
+    },
+    {
+      "departement": "88",
+      "nom": "Pharmacie Bloch",
+      "url": "https://mapharma.net/88600",
+      "ville": "bruyeres",
+      "location": null,
+      "metadata": {
+        "address": "8 route de G\u00e9rardmer 88600 BRUYERES",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "88600-0"
+    },
+    {
+      "departement": "88",
+      "nom": "Pharmacie Lafayette Michel",
+      "url": "https://partners.doctolib.fr/pharmacie/saint-die-des-vosges/pharmacie-lafayette-michel",
+      "ville": "saint-die-des-vosges",
+      "location": {
+        "longitude": 6.9495328,
+        "latitude": 48.2861651
+      },
+      "metadata": {
+        "address": "18 Rue Thiers, 88100 Saint-Di\u00e9-des-Vosges",
+        "phone_number": "+33329561362",
+        "business_hours": {
+          "lundi": "08:30-12:30, 13:30-19:30",
+          "mardi": "08:30-12:30, 13:30-19:30",
+          "mercredi": "08:30-12:30, 13:30-19:30",
+          "jeudi": "08:30-12:30, 13:30-19:30",
+          "vendredi": "08:30-12:30, 13:30-19:30",
+          "samedi": "08:30-12:30, 13:30-19:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "262024[]",
+      "gid": "d262024"
+    },
+    {
+      "departement": "88",
+      "nom": "CH de Ravenel - Centre de vaccination Covid-19 de Mirecourt",
+      "url": "https://partners.doctolib.fr/hopital-public/mirecourt/mirecourt-centre-de-vaccinationcovid19",
+      "ville": "mirecourt",
+      "location": {
+        "longitude": 6.1110914,
+        "latitude": 48.296194
+      },
+      "metadata": {
+        "address": "1115 Avenue Ren\u00e9 Porterat, 88500 Mirecourt",
+        "phone_number": "+33329818878",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-19:00",
+          "mardi": "08:30-12:30, 13:00-16:30",
+          "mercredi": "08:30-12:30, 13:00-16:30",
+          "jeudi": "08:30-12:30, 13:00-16:30",
+          "vendredi": "08:30-12:30, 13:00-16:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "256286[]",
+      "gid": "d256286"
+    },
+    {
+      "departement": "88",
+      "nom": "Centre de vaccination Covid-19 - CH de la haute vall\u00e9e de la Moselle (C2HVM)",
+      "url": "https://partners.doctolib.fr/centre-de-sante/le-thillot/centre-de-vaccination-covid-19-ch-de-la-haute-vallee-de-la-moselle-c2hvm",
+      "ville": "le-thillot",
+      "location": {
+        "longitude": 6.7689544,
+        "latitude": 47.8771307
+      },
+      "metadata": {
+        "address": "60 Rue Charles de Gaulle, 88160 Le Thillot",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "258367[]",
+      "gid": "d258367"
+    }
+  ]
+}

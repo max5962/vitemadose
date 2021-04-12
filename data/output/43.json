@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-12T09:04:10.767191+02:00",
+  "centres_disponibles": [],
+  "centres_indisponibles": [
+    {
+      "departement": "43",
+      "nom": "Centre de vaccination de Langeac",
+      "url": "https://partners.doctolib.fr/hopital-public/brioude/centre-de-vaccination-covid19-ch-brioude",
+      "ville": "langeac",
+      "location": {
+        "longitude": 3.49383,
+        "latitude": 45.0955
+      },
+      "metadata": {
+        "address": "0 Rue du 19 Mars 1962, 43300 Langeac",
+        "phone_number": "+33471508655",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241081[162882]",
+      "gid": "2090"
+    },
+    {
+      "departement": "43",
+      "nom": "Centre vaccination Monistrol",
+      "url": "https://partners.doctolib.fr/hopital-public/yssingeaux/centre-de-vaccination-covid-19-ch-de-yssingeaux?pid=practice-170373",
+      "ville": "monistrol-sur-loire",
+      "location": {
+        "longitude": 4.17262,
+        "latitude": 45.2922
+      },
+      "metadata": {
+        "address": "9 Avenue de la Lib\u00e9ration, 43120 Monistrol-sur-Loire",
+        "phone_number": "+33471657708",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244634[170373]",
+      "gid": "1392"
+    },
+    {
+      "departement": "43",
+      "nom": "Centre vaccination Craponne",
+      "url": "https://partners.doctolib.fr/hopital-public/espaly-saint-marcel/centre-de-vaccination-covid-19-ch-puy-en-velay?pid=practice-170088",
+      "ville": "craponne-sur-arzon",
+      "location": {
+        "longitude": 3.84798,
+        "latitude": 45.3288
+      },
+      "metadata": {
+        "address": "4 Rue du Stade, 43500 Craponne-sur-Arzon",
+        "phone_number": "+33188889596",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242975[170088]",
+      "gid": "1391"
+    },
+    {
+      "departement": "43",
+      "nom": "Centre de vaccination du Centre hospitalier d'Yssingeaux",
+      "url": "https://partners.doctolib.fr/hopital-public/yssingeaux/centre-de-vaccination-covid-19-ch-de-yssingeaux",
+      "ville": "yssingeaux",
+      "location": {
+        "longitude": 4.12994,
+        "latitude": 45.1503
+      },
+      "metadata": {
+        "address": "26 Avenue du 8 Mai 1945 - Salle de la Coupe du Monde, 43200 Yssingeaux",
+        "phone_number": "+33471657708",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244634[165197]",
+      "gid": "651"
+    },
+    {
+      "departement": "43",
+      "nom": "Centre de vaccination du CH du Puy en Velay (Emile Roux)",
+      "url": "https://partners.doctolib.fr/hopital-public/espaly-saint-marcel/centre-de-vaccination-covid-19-ch-puy-en-velay?pid=practice-164904%3fspeciality_id%3d5494",
+      "ville": "le-puy-en-velay",
+      "location": {
+        "longitude": 3.8747,
+        "latitude": 45.0471
+      },
+      "metadata": {
+        "address": " Stade Charles MASSOT - Place de la lib\u00e9ration, 43000 Le Puy-en-Velay",
+        "phone_number": "+33471043314",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242975[164904]",
+      "gid": "185"
+    }
+  ]
+}

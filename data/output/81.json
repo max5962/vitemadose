@@ -1,0 +1,365 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-12T09:04:10.808563+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "81",
+      "nom": "CH Albi",
+      "url": "https://partners.doctolib.fr/hopital-public/castres/chic-castres-mazamet-centre-de-vaccination?pid=practice-164139",
+      "ville": "albi",
+      "location": {
+        "longitude": 2.14272,
+        "latitude": 43.926
+      },
+      "metadata": {
+        "address": "22 Boulevard G\u00e9n\u00e9ral Sibille, 81000 Albi",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "08:30-18:30",
+          "mardi": "08:30-18:30",
+          "mercredi": "08:30-18:30",
+          "jeudi": "08:30-18:30",
+          "vendredi": "08:30-18:30",
+          "samedi": "08:30-18:30",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": "2021-04-13T12:40:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 188,
+      "internal_id": "242019[164139]",
+      "gid": "369"
+    },
+    {
+      "departement": "81",
+      "nom": "Centre de vaccination de l'Albigeois - Parc des Expositions",
+      "url": "https://partners.doctolib.fr/hopital-public/tarn/chic-castres-mazamet-centre-de-vaccination?pid=practice-164315",
+      "ville": "le-sequestre",
+      "location": {
+        "longitude": 2.11465,
+        "latitude": 43.9175
+      },
+      "metadata": {
+        "address": "1 Rue de la Baute, 81990 Le S\u00e9questre",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "09:00-17:30",
+          "jeudi": "09:00-17:30",
+          "vendredi": "09:00-17:30",
+          "samedi": "09:00-17:30",
+          "dimanche": "09:00-17:30"
+        }
+      },
+      "prochain_rdv": "2021-04-14T10:40:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 171,
+      "internal_id": "242019[164315]",
+      "gid": "1186"
+    },
+    {
+      "departement": "81",
+      "nom": "CH Castres",
+      "url": "https://partners.doctolib.fr/hopital-public/castres/chic-castres-mazamet-centre-de-vaccination?pid=practice-164002",
+      "ville": "castres",
+      "location": {
+        "longitude": 2.26272,
+        "latitude": 43.5657
+      },
+      "metadata": {
+        "address": "6 Avenue de la Montagne Noire, 81100 Castres",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "08:30-20:30",
+          "mardi": "08:30-20:30",
+          "mercredi": "08:30-20:30",
+          "jeudi": "08:30-20:30",
+          "vendredi": "08:30-20:30",
+          "samedi": "10:00-18:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-15T16:10:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 13,
+      "internal_id": "242019[164002]",
+      "gid": "370"
+    },
+    {
+      "departement": "81",
+      "nom": "Centre de vaccination de Mazamet - Palais des Congr\u00e8s",
+      "url": "https://partners.doctolib.fr/centre-de-sante/mazamet/centre-de-vaccination-covid-19-centre-de-vaccination-de-mazamet?pid=practice-165219",
+      "ville": "mazamet",
+      "location": {
+        "longitude": 2.37707,
+        "latitude": 43.4951
+      },
+      "metadata": {
+        "address": " Rue Jean Assemat, 81200 Mazamet",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "8:30-12:30 & 13:30-17:30",
+          "mercredi": "8:30-12:30 & 13:30-17:30",
+          "jeudi": "8:30-12:30 & 13:30-17:30",
+          "vendredi": "8:30-12:30 & 13:30-17:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-20T10:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 361,
+      "internal_id": "243283[181262]",
+      "gid": "903"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "81",
+      "nom": "Centre de vaccination Clinique Toulouse Lautrec",
+      "url": "https://partners.doctolib.fr/hopital-public/tarn/chic-castres-mazamet-centre-de-vaccination?pid=practice-164870",
+      "ville": "albi",
+      "location": {
+        "longitude": 2.1801,
+        "latitude": 43.9284
+      },
+      "metadata": {
+        "address": "2 Rue Jacques Monod, 81000 Albi",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "09:00-18:00",
+          "mardi": "09:00-18:00",
+          "mercredi": "09:00-18:00",
+          "jeudi": "09:00-18:00",
+          "vendredi": "09:00-18:00",
+          "samedi": "09:00-18:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242019[164870]",
+      "gid": "936"
+    },
+    {
+      "departement": "81",
+      "nom": "MSP Haute Vall\u00e9e du Thor\u00e9 Labastide Rouairoux",
+      "url": "https://partners.doctolib.fr/centre-de-sante/labastide-rouairoux/centre-de-vaccination-de-labastide-rouairoux",
+      "ville": "labastide-rouairoux",
+      "location": {
+        "longitude": 2.6339,
+        "latitude": 43.4753
+      },
+      "metadata": {
+        "address": "2 Avenue Marie Curie, 81270 Labastide-Rouairoux",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "13:30-19:00",
+          "mardi": "13:30-19:00",
+          "mercredi": "13:30-19:00",
+          "jeudi": "13:30-19:00",
+          "vendredi": "13:30-19:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242522[]",
+      "gid": "881"
+    },
+    {
+      "departement": "81",
+      "nom": "Clinique du Sidobre",
+      "url": "https://partners.doctolib.fr/hopital-public/castres/chic-castres-mazamet-centre-de-vaccination?pid=practice-164141",
+      "ville": "castres",
+      "location": {
+        "longitude": 2.27349,
+        "latitude": 43.5959
+      },
+      "metadata": {
+        "address": "141 Chemin de Saint Hippolyte, 81100 Castres",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "Ferm\u00e9",
+          "samedi": "Ferm\u00e9",
+          "dimanche": "Ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242019[164141]",
+      "gid": "372"
+    },
+    {
+      "departement": "81",
+      "nom": "Centre de vaccination du Carmausin - Salle Fran\u00e7ois Mitterand",
+      "url": "https://partners.doctolib.fr/centre-de-sante/carmaux/centre-de-vaccination-covid-19-du-carmausin?pid=practice-165296%3fspeciality_id%3d5494",
+      "ville": "carmaux",
+      "location": {
+        "longitude": 2.15082,
+        "latitude": 44.0503
+      },
+      "metadata": {
+        "address": "1 Boulevard Henri Barbusse, 81400 Carmaux",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "13:30-17:00",
+          "mercredi": "13:30-17:00",
+          "jeudi": "13:30-17:00",
+          "vendredi": "13:30-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243490[165296]",
+      "gid": "895"
+    },
+    {
+      "departement": "81",
+      "nom": "Centre de vaccination de Lavaur - Centre Hospitalier",
+      "url": "https://partners.doctolib.fr/hopital-public/lavaur/centre-de-vaccination-ch-lavaur",
+      "ville": "lavaur",
+      "location": {
+        "longitude": 1.8184,
+        "latitude": 43.7005
+      },
+      "metadata": {
+        "address": "1 Place Vialas, 81500 Lavaur",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "8:30-13:00 & 13:30-17:00",
+          "mardi": "8:30-13:00 & 13:30-17:00",
+          "mercredi": "8:30-13:00 & 13:30-17:00",
+          "jeudi": "8:30-13:00 & 13:30-17:00",
+          "vendredi": "8:30-13:00 & 13:30-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243421[]",
+      "gid": "1190"
+    },
+    {
+      "departement": "81",
+      "nom": "CPTS du Grand Gaillacois - centre de vaccination mairie de Gaillac - salle des Mariages",
+      "url": "https://partners.doctolib.fr/hopital-public/tarn/chic-castres-mazamet-centre-de-vaccination?pid=practice-164318",
+      "ville": "gaillac",
+      "location": {
+        "longitude": 1.89691,
+        "latitude": 43.9017
+      },
+      "metadata": {
+        "address": "68 Place d'Hautpoul, 81600 Gaillac",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "9:00-13:00 & 13:30-17:30",
+          "mardi": "9:00-13:00 & 13:30-17:30",
+          "mercredi": "9:00-13:00 & 13:30-17:30",
+          "jeudi": "9:00-13:00 & 13:30-17:30",
+          "vendredi": "9:00-13:00 & 13:30-17:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242019[164318]",
+      "gid": "913"
+    },
+    {
+      "departement": "81",
+      "nom": "Centre de vaccination de Graulhet - Salle le Foulon",
+      "url": "https://partners.doctolib.fr/centre-de-sante/graulhet/centre-de-vaccination-covid-19-graulhet",
+      "ville": "graulhet",
+      "location": {
+        "longitude": 1.98803,
+        "latitude": 43.7611
+      },
+      "metadata": {
+        "address": "1 Place de la R\u00e9publique, 81300 Graulhet",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "13:30-19:00",
+          "mardi": "13:30-19:00",
+          "mercredi": "13:30-19:00",
+          "jeudi": "13:30-19:00",
+          "vendredi": "13:30-19:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244867[]",
+      "gid": "1189"
+    },
+    {
+      "departement": "81",
+      "nom": "Snc Pharmacie Brilleaud",
+      "url": "https://app.ordoclic.fr/app/pharmacie/snc-pharmacie-brilleaud-labastide-rouairoux",
+      "ville": "labastide-rouairoux",
+      "location": {
+        "longitude": 2.6400011,
+        "latitude": 43.4762366
+      },
+      "metadata": {
+        "address": "88 bis boulevard Carnot, 81270 LABASTIDE ROUAIROUX",
+        "phone_number": "+33563980115",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "4124ecdd"
+    },
+    {
+      "departement": "81",
+      "nom": "Pharmacie Du Martinet",
+      "url": "https://mapharma.net/81100",
+      "ville": "castres",
+      "location": null,
+      "metadata": {
+        "address": "1, avenue Georges Pompidou 81100 CASTRES",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "81100-0"
+    }
+  ]
+}

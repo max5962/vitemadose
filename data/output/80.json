@@ -1,0 +1,756 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-12T09:04:10.807433+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "80",
+      "nom": "Centre de vaccination - CPTS Espace Eug\u00e8ne Viandier",
+      "url": "https://partners.doctolib.fr/etablissement-de-prevention/saleux/centre-de-vaccination-covid-19-de-saleux?pid=practice-164882%3fspeciality_id%3d5494",
+      "ville": "saleux",
+      "location": {
+        "longitude": 2.23815,
+        "latitude": 49.8618
+      },
+      "metadata": {
+        "address": " Place Numa BUIGNET, 80480 Saleux",
+        "phone_number": "+33392043471",
+        "business_hours": {
+          "lundi": "09:00-19:00",
+          "mardi": "09:00-19:00",
+          "mercredi": "09:00-19:00",
+          "jeudi": "09:00-19:00",
+          "vendredi": "09:00-19:00",
+          "samedi": "09:00-18:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-12T11:10:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 65,
+      "internal_id": "242925[164882]",
+      "gid": "1102"
+    },
+    {
+      "departement": "80",
+      "nom": "Centre de vaccination Covid-19 de Saleux",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saleux/centre-de-vaccination-covid-19-de-saleux",
+      "ville": "saleux",
+      "location": {
+        "longitude": 2.2386104,
+        "latitude": 49.8608525
+      },
+      "metadata": {
+        "address": "Place Numa Buignet, 80480 Saleux",
+        "phone_number": "+33601567722",
+        "business_hours": {
+          "lundi": "09:00-19:00",
+          "mardi": "09:00-19:00",
+          "mercredi": "09:00-19:00",
+          "jeudi": "09:00-19:00",
+          "vendredi": "09:00-19:00",
+          "samedi": "09:00-18:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-12T11:10:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 65,
+      "internal_id": "242925[]",
+      "gid": "d242925"
+    },
+    {
+      "departement": "80",
+      "nom": "Centre de vaccination - CH DOULLENS (Espace culturel)",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/doullens-80600/centre-hospitalier-doullens/centre-de-vaccination-du-centre-hospitalier-doullens",
+      "ville": "doullens",
+      "location": {
+        "longitude": 2.34049,
+        "latitude": 50.1596
+      },
+      "metadata": {
+        "address": " Rue des 9 Moulins, 80600 Doullens",
+        "phone_number": "+33392043471",
+        "business_hours": {
+          "lundi": "13:30-17:30",
+          "mardi": "13:30-17:30",
+          "mercredi": "13:30-17:30",
+          "jeudi": "13:30-17:30",
+          "vendredi": "13:30-17:30",
+          "samedi": "09:00-13:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-12T16:10:00.000000+0200",
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 9,
+      "internal_id": null,
+      "gid": "1117"
+    },
+    {
+      "departement": "80",
+      "nom": "Centre de vaccination - MSP Cr\u00e9cy en Ponthieu",
+      "url": "https://vaccination-covid.keldoc.com/maison-de-sante/crecy-en-ponthieu-80150/msp-de-crecy-en-ponthieu/centre-de-vaccination-de-la-msp-de-crecy-en-ponthieu",
+      "ville": "crecy-en-ponthieu",
+      "location": {
+        "longitude": 1.87346,
+        "latitude": 50.2567
+      },
+      "metadata": {
+        "address": "42 Route de Rue, 80150 Cr\u00e9cy-en-Ponthieu",
+        "phone_number": "+33392043471",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "08:00-12:00/14:00-17:00",
+          "mercredi": "08:00-12:00/14:00-17:00",
+          "jeudi": "08:00-12:00/14:00-17:00",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-13T14:30:00.000000+0200",
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 30,
+      "internal_id": null,
+      "gid": "1098"
+    },
+    {
+      "departement": "80",
+      "nom": "Pharmacie Lafayette Amiens",
+      "url": "https://partners.doctolib.fr/pharmacie/amiens/pharmacie-lafayette-amiens",
+      "ville": "amiens",
+      "location": {
+        "longitude": 2.2980783,
+        "latitude": 49.8931862
+      },
+      "metadata": {
+        "address": "4 Place Gambetta, 80000 Amiens",
+        "phone_number": "+33322975252",
+        "business_hours": {
+          "lundi": "09:00-19:30",
+          "mardi": "09:00-19:30",
+          "mercredi": "09:00-19:30",
+          "jeudi": "09:00-19:30",
+          "vendredi": "09:00-19:30",
+          "samedi": "09:00-19:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-29T14:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 1,
+      "internal_id": "249791[]",
+      "gid": "d249791"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "80",
+      "nom": "Centre de vaccination - CHIMR Roye (MSP)",
+      "url": "https://vaccination-covid.keldoc.com/centre-municipal-de-sante/roye-80700/centre-de-vaccination-mairie-de-roye",
+      "ville": "roye",
+      "location": {
+        "longitude": 2.78359,
+        "latitude": 49.7064
+      },
+      "metadata": {
+        "address": "2 Rue Docteur Alexandre Remond, 80700 Roye",
+        "phone_number": "+33392043471",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "09:00-17:00",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "09:00-13:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1101"
+    },
+    {
+      "departement": "80",
+      "nom": "Centre de vaccination - Ville de HAM, Salle des F\u00eates Esplanade du Ch\u00e2teau",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/ham/vaccination-covid-19-ville-de-ham-lie-au-ch?pid=practice-173578",
+      "ville": "ham",
+      "location": {
+        "longitude": 3.07303,
+        "latitude": 49.7446
+      },
+      "metadata": {
+        "address": " Esplanade du CHATEAU, 80400 Ham",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "254026[173578]",
+      "gid": "1436"
+    },
+    {
+      "departement": "80",
+      "nom": "Centre de vaccination - CHIMR EHPAD Lucien Vivien",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/montdidier-80500/centre-hospitalier-montdidier-roye-ehpad-lucien-vivien/centre-de-vaccination-du-centre-hospitalier-montdidier-roye-ehpad-lucien-vivien",
+      "ville": "montdidier",
+      "location": {
+        "longitude": 2.5742,
+        "latitude": 49.6478
+      },
+      "metadata": {
+        "address": "25 Rue Amand de Vienne, 80500 Montdidier",
+        "phone_number": "+33392043171",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "13:00-17:00",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "09:00-17:00",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1100"
+    },
+    {
+      "departement": "80",
+      "nom": "Centre de vaccination - CH Abbeville, Mairie Abbeville",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/abbeville-80001/centre-hospitalier-abbeville-salle-des-fetes/centre-de-vaccination-du-centre-hospitalier-abbeville-salle-des-fetes",
+      "ville": "abbeville",
+      "location": {
+        "longitude": 1.8375,
+        "latitude": 50.1076
+      },
+      "metadata": {
+        "address": "15 Rue Josse Van Robais, 80100 Abbeville",
+        "phone_number": "+33360761033",
+        "business_hours": {
+          "lundi": "09:00-20:00",
+          "mardi": "09:00-20:00",
+          "mercredi": "09:00-20:00",
+          "jeudi": "09:00-20:00",
+          "vendredi": "09:00-20:00",
+          "samedi": "09:00-20:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "837"
+    },
+    {
+      "departement": "80",
+      "nom": "Centre de Vaccination : Espace Sant\u00e9 Ravel Amiens",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/amiens-80000/espace-sante-maurice-ravel",
+      "ville": "amiens",
+      "location": {
+        "longitude": 2.30426,
+        "latitude": 49.9136
+      },
+      "metadata": {
+        "address": "1 bis Rue Maurice Ravel, 80080 Amiens",
+        "phone_number": "+33392043171",
+        "business_hours": {
+          "lundi": "09:30-13:00/14:30-18:00",
+          "mardi": "09:30-13:00/14:30-18:00",
+          "mercredi": "09:30-13:00/14:30-18:00",
+          "jeudi": "09:30-13:00/14:30-18:00",
+          "vendredi": "09:30-13:00/14:30-18:00",
+          "samedi": "09:00-13:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "991"
+    },
+    {
+      "departement": "80",
+      "nom": "Centre de vaccination - Commune CHAULNES, Centre socioculturel",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/chaulnes-80320/centre-de-vaccination-ephemere-chaulnes",
+      "ville": "chaulnes",
+      "location": {
+        "longitude": 2.80405,
+        "latitude": 49.8197
+      },
+      "metadata": {
+        "address": " Rue Poulin, 80320 Chaulnes",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1949"
+    },
+    {
+      "departement": "80",
+      "nom": "Centre de vaccination - Ville de OISEMON, salle des associations",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chambery/centre-de-vaccination-grand-chambery?pid=practice-178078",
+      "ville": "oisemont",
+      "location": {
+        "longitude": 1.76628,
+        "latitude": 49.9555
+      },
+      "metadata": {
+        "address": " Place du Mar\u00e9chal Leclerc, 80140 Oisemont",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "08:00-12:30/13:30-18:00",
+          "samedi": "09:00-13:00",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "260816[178078]",
+      "gid": "2131"
+    },
+    {
+      "departement": "80",
+      "nom": "Centre de Vaccination - Ville de Saint-Val\u00e9ry-Sur-Somme, Entrep\u00f4t des sel",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/st-valery-sur-somme-80230/st-valery-sur-somme/centre-de-vaccination-du-st-valery-sur-somme",
+      "ville": "saint-valery-sur-somme",
+      "location": {
+        "longitude": 1.64405,
+        "latitude": 50.1809
+      },
+      "metadata": {
+        "address": "2 Quai Lejoille, 80230 Saint-Valery-sur-Somme",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1395"
+    },
+    {
+      "departement": "80",
+      "nom": "Centre de Vaccination - Ville de Flixecourt, Salle Le Chiffon Rouge",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/flixecourt-80420/flixecourt/centre-de-vaccination-de-flixecourt",
+      "ville": "flixecourt",
+      "location": {
+        "longitude": 2.07553,
+        "latitude": 50.0136
+      },
+      "metadata": {
+        "address": " Rue Philippe Ermenault, 80420 Flixecourt",
+        "phone_number": "+33607288799",
+        "business_hours": {
+          "lundi": "10:00-13:00/14:00-16:00",
+          "mardi": "10:00-13:00/14:00-16:00",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "10:00-13:00/14:00-16:00",
+          "vendredi": "10:00-13:00/14:00-16:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1394"
+    },
+    {
+      "departement": "80",
+      "nom": "Centre de vaccination - Ville de Poix-de-Picardie, SALLE DES F\u00caTES",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/poix-de-picardie-80290/poix-de-picardie/centre-de-vaccination-de-poix-de-picardie",
+      "ville": "poix-de-picardie",
+      "location": {
+        "longitude": 1.98219,
+        "latitude": 49.7744
+      },
+      "metadata": {
+        "address": " Place de la R\u00e9publique, 80290 Poix-de-Picardie",
+        "phone_number": "+33322410605",
+        "business_hours": {
+          "lundi": "10:00-13:00/14:00-17:30",
+          "mardi": "10:00-13:00/14:00-17:30",
+          "mercredi": "10:00-13:00/14:00-17:30",
+          "jeudi": "10:00-13:00/14:00-17:30",
+          "vendredi": "10:00-13:00/14:00-17:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1393"
+    },
+    {
+      "departement": "80",
+      "nom": "Centre de vaccination- CHU Amiens",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/amiens-80000/chu-amiens-picardie-site-nord?category=-1&cabinet=16656&specialty=496",
+      "ville": "amiens",
+      "location": {
+        "longitude": 2.29074,
+        "latitude": 49.9073
+      },
+      "metadata": {
+        "address": " Place Victor Pauchet, 80080 Amiens",
+        "phone_number": "+33392043471",
+        "business_hours": {
+          "lundi": "12:00-20:00",
+          "mardi": "12:00-20:00",
+          "mercredi": "12:00-20:00",
+          "jeudi": "12:00-20:00",
+          "vendredi": "12:00-20:00",
+          "samedi": "10:00-18:00",
+          "dimanche": "09:00-13:00"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "162"
+    },
+    {
+      "departement": "80",
+      "nom": "Centre de vaccination - Communaut\u00e9 de commune VIMEU Baie de la somme ( Salle Edith Piaf)",
+      "url": "https://partners.doctolib.fr/centre-de-sante/friville-escarbotin/centre-de-vaccination-covid-vimeu-baie-de-somme",
+      "ville": "friville-escarbotin",
+      "location": {
+        "longitude": 1.54603,
+        "latitude": 50.0875
+      },
+      "metadata": {
+        "address": "56 Rue Henri Barbusse, 80130 Friville-Escarbotin",
+        "phone_number": "+33322260880",
+        "business_hours": {
+          "lundi": "08:00-12:00/14:00-18:00",
+          "mardi": "08:00-12:00/14:00-18:00",
+          "mercredi": "08:00-12:00/14:00-18:00",
+          "jeudi": "08:00-12:00/14:00-18:00",
+          "vendredi": "08:00-12:00/14:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244306[]",
+      "gid": "1097"
+    },
+    {
+      "departement": "80",
+      "nom": "Centre de vaccination - CH P\u00c9RONNE",
+      "url": "https://partners.doctolib.fr/hopital-public/peronne/ch-de-peronne",
+      "ville": "peronne",
+      "location": {
+        "longitude": 2.93133,
+        "latitude": 49.9346
+      },
+      "metadata": {
+        "address": " Place du Jeu de Paume, 80200 P\u00e9ronne",
+        "phone_number": "+33392043471",
+        "business_hours": {
+          "lundi": "08:30-12:30/13:30-17:30",
+          "mardi": "08:30-12:30/13:30-17:30",
+          "mercredi": "08:30-12:30/13:30-17:30",
+          "jeudi": "08:30-12:30/14:30-17:30",
+          "vendredi": "08:30-12:30/13:30-17:30",
+          "samedi": "08:30-12:30/13:30-17:30",
+          "dimanche": "08:30-12:30/13:30-17:30"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "214420[]",
+      "gid": "171"
+    },
+    {
+      "departement": "80",
+      "nom": "Centre de vaccination - CH ALBERT",
+      "url": "https://partners.doctolib.fr/hopital-public/albert/ch-d-albert-centre-de-vaccination-covid-19",
+      "ville": "albert",
+      "location": {
+        "longitude": 2.65165,
+        "latitude": 49.9947
+      },
+      "metadata": {
+        "address": " Rue Paul Langevin, 80300 Albert",
+        "phone_number": "+33392043471",
+        "business_hours": {
+          "lundi": "09:00-12:00/14:00-17:00",
+          "mardi": "09:00-12:00/14:00-17:00",
+          "mercredi": "09:00-12:00/14:00-17:00",
+          "jeudi": "09:00-12:00/14:00-17:00",
+          "vendredi": "09:00-12:00/14:00-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242508[]",
+      "gid": "1096"
+    },
+    {
+      "departement": "80",
+      "nom": "Centre de vaccination : Maison M\u00e9dicale de Corbie",
+      "url": "https://partners.doctolib.fr/centre-de-sante/corbie/centre-de-vaccination-covid-ville-de-corbie",
+      "ville": "corbie",
+      "location": {
+        "longitude": 2.5066,
+        "latitude": 49.9068
+      },
+      "metadata": {
+        "address": "36 Rue Jacques Pinsonneau, 80800 Corbie",
+        "phone_number": "+33392043471",
+        "business_hours": {
+          "lundi": "13:00-15:00",
+          "mardi": "09:00-11:00",
+          "mercredi": "14:00-17:00",
+          "jeudi": "09:00-12:00",
+          "vendredi": "09:00-13:00",
+          "samedi": "8:30-11:30",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244383[]",
+      "gid": "993"
+    },
+    {
+      "departement": "80",
+      "nom": "Centre de vaccination - P\u00f4le priv\u00e9 des cliniques d'Amiens",
+      "url": "https://partners.doctolib.fr/centre-de-sante/amiens/centre-de-vaccination-du-pole-prive-d-amiens",
+      "ville": "amiens",
+      "location": {
+        "longitude": 2.29351,
+        "latitude": 49.8726
+      },
+      "metadata": {
+        "address": "65 Rue Alexandre Dumas, 80090 Amiens",
+        "phone_number": "+33322337443",
+        "business_hours": {
+          "lundi": "14:00-20:00",
+          "mardi": "14:00-20:00",
+          "mercredi": "14:00-20:00",
+          "jeudi": "14:00-20:00",
+          "vendredi": "14:00-20:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241900[]",
+      "gid": "830"
+    },
+    {
+      "departement": "80",
+      "nom": "Pharmacie Guyon Lamirand",
+      "url": "https://mapharma.net/80000-2",
+      "ville": "amiens",
+      "location": null,
+      "metadata": {
+        "address": "3 place des Provinces Fran\u00e7aises 80000 AMIENS",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "80000-2"
+    },
+    {
+      "departement": "80",
+      "nom": "Pharmacie Thomas Henocq",
+      "url": "https://mapharma.net/80000-1",
+      "ville": "amiens",
+      "location": null,
+      "metadata": {
+        "address": "rue du 8 mai 1945 80000 AMIENS",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "80000-1"
+    },
+    {
+      "departement": "80",
+      "nom": "Grande Pharmacie De La Baie",
+      "url": "https://mapharma.net/80230",
+      "ville": "saint-valery-sur-somme",
+      "location": null,
+      "metadata": {
+        "address": "29 place des Pilotes 80230 SAINT VALERY SUR SOMME",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "80230-0"
+    },
+    {
+      "departement": "80",
+      "nom": "Pharmacie Du Pilori",
+      "url": "https://mapharma.net/80100",
+      "ville": "abbeville",
+      "location": null,
+      "metadata": {
+        "address": "14 place du Pilori 80100 ABBEVILLE",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "80100-0"
+    },
+    {
+      "departement": "80",
+      "nom": "Pharmacie De La Croix De Fer",
+      "url": "https://mapharma.net/80330",
+      "ville": "longueau",
+      "location": null,
+      "metadata": {
+        "address": "105 Avenue Henri Barbusse 80330 LONGUEAU",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "80330-0"
+    },
+    {
+      "departement": "80",
+      "nom": "Dr Jean CATTIAU",
+      "url": "https://partners.doctolib.fr/medecin-generaliste/mondicourt/jean-cattiau",
+      "ville": "mondicourt",
+      "location": {
+        "longitude": 2.46062749999999,
+        "latitude": 50.1715509
+      },
+      "metadata": {
+        "address": "27 Rue de Grenas, 62760 Mondicourt",
+        "phone_number": "+33321551133",
+        "business_hours": {
+          "lundi": "08:30-19:00",
+          "mardi": "08:30-19:00",
+          "mercredi": "08:30-19:00",
+          "jeudi": "08:30-12:00",
+          "vendredi": "08:30-19:00",
+          "samedi": "08:30-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "general-practitioner",
+      "appointment_count": 0,
+      "internal_id": "172347[]",
+      "gid": "d172347"
+    },
+    {
+      "departement": "80",
+      "nom": "Centre de vaccination Covid-19 - CH de P\u00e9ronne",
+      "url": "https://partners.doctolib.fr/hopital-public/peronne/centre-de-vaccination-covid-19-ch-de-peronne",
+      "ville": "peronne",
+      "location": {
+        "longitude": 2.9310273,
+        "latitude": 49.9348478
+      },
+      "metadata": {
+        "address": "Place du Jeu de Paume, 80200 P\u00e9ronne",
+        "phone_number": "+33322836000",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244507[]",
+      "gid": "d244507"
+    }
+  ]
+}

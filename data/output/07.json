@@ -1,0 +1,298 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-12T09:04:10.733023+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "07",
+      "nom": "Centre vaccinal de l\u2019Eyrieux",
+      "url": "https://www.maiia.com/centre-de-vaccination/07160-le-cheylard-/centre-de-vaccination-le-cheylard",
+      "ville": "le-cheylard",
+      "location": {
+        "longitude": 4.43581,
+        "latitude": 44.9121
+      },
+      "metadata": {
+        "address": " ZI LA PALISSE, 07160 Le Cheylard",
+        "phone_number": "+33800009110",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "13:00-17:30",
+          "mercredi": "13:00-17:00",
+          "jeudi": "13:00-17:00",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-13T15:20:00.000000Z",
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 67,
+      "internal_id": null,
+      "gid": "1705"
+    },
+    {
+      "departement": "07",
+      "nom": "Centre de vaccination de Lamastre  - Centre socio-culturel",
+      "url": "https://www.maiia.com/centre-de-vaccination/07270-lamastre/centre-de-vaccination-covid---lamastre",
+      "ville": "lamastre",
+      "location": {
+        "longitude": 4.57776,
+        "latitude": 44.9847
+      },
+      "metadata": {
+        "address": "1 Place Victor Hugo, 07270 Lamastre",
+        "phone_number": "+33800009110",
+        "business_hours": {
+          "lundi": "14:00-18:00",
+          "mardi": "08:00-12:00/13:30-17:30",
+          "mercredi": "08:00-12:00/14:00-18:00",
+          "jeudi": "09:00-12:00",
+          "vendredi": "08:00-12:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-15T17:10:00.000000Z",
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 2,
+      "internal_id": null,
+      "gid": "693"
+    },
+    {
+      "departement": "07",
+      "nom": "Centre de vaccination du CH d'Aubenas - Maison m\u00e9dicale de garde",
+      "url": "https://partners.doctolib.fr/hopital-public/aubenas/centre-de-vaccination-covid-ch-d-ardeche-meridionale",
+      "ville": "aubenas",
+      "location": {
+        "longitude": 4.39797,
+        "latitude": 44.6129
+      },
+      "metadata": {
+        "address": "14 Avenue de Bellande, 07200 Aubenas",
+        "phone_number": "+33475356222",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-12T16:45:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 135,
+      "internal_id": "241919[]",
+      "gid": "240"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "07",
+      "nom": "Centre de Vaccination Territorial et hospitalier BSAV - Gymnase Pierre Pieri",
+      "url": "https://partners.doctolib.fr/centre-de-sante/bourg-saint-andeol/centre-de-vaccination-territorial-bourg-saint-andeol?pid=practice-166627",
+      "ville": "bourg-saint-andeol",
+      "location": {
+        "longitude": 4.64215,
+        "latitude": 44.38
+      },
+      "metadata": {
+        "address": "33 Avenue Marechal Leclerc, 07700 Bourg-Saint-And\u00e9ol",
+        "phone_number": "+33800009110",
+        "business_hours": {
+          "lundi": "08:45-12:00/13:45-17:00",
+          "mardi": "ferm\u00e9",
+          "mercredi": "08:45-12:00/13:45-17:00",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "245141[166627]",
+      "gid": "1336"
+    },
+    {
+      "departement": "07",
+      "nom": "Centre de vaccination du centre de sant\u00e9 des C\u00e9vennes",
+      "url": "https://partners.doctolib.fr/cabinet-pluridisciplinaire/annonay/maison-de-sante-des-cevennes",
+      "ville": "annonay",
+      "location": {
+        "longitude": 4.66985,
+        "latitude": 45.2612
+      },
+      "metadata": {
+        "address": "122 Avenue Ferdinand Janvier, 07100 Annonay",
+        "phone_number": "+33475337730",
+        "business_hours": {
+          "lundi": "08:30-12:30/13:30-16:30",
+          "mardi": "08:30-12:30/13:30-16:30",
+          "mercredi": "08:30-12:30/13:30-16:30",
+          "jeudi": "08:30-12:30/13:30-16:30",
+          "vendredi": "08:30-12:30/13:30-16:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "191779[]",
+      "gid": "722"
+    },
+    {
+      "departement": "07",
+      "nom": "CENTRE HOSPITALIER D'ARDECHE NORD (Professionnels de sant\u00e9 uniquement)",
+      "url": "https://www.maiia.com/centre-hospitalier-(ch)/07100-annonay/centre-hospitalier-d-ardeche-nord-",
+      "ville": "annonay",
+      "location": {
+        "longitude": 4.66582,
+        "latitude": 45.2419
+      },
+      "metadata": {
+        "address": "1 rue du Bon Pasteur, 07100 Annonay",
+        "phone_number": "+33475673927",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "09:00-12:30/13:00-16:30",
+          "mercredi": "09:00-12:30/13:00-16:30",
+          "jeudi": "09:00-12:30/13:00-16:30",
+          "vendredi": "09:00-12:30/13:00-16:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "237"
+    },
+    {
+      "departement": "07",
+      "nom": "Centre de Vaccination Territorial et Hospitalier de Tournon",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/tournon-sur-rhone/vaccination-covid-19-ch-tournon?pid=practice-174270",
+      "ville": "tournon-sur-rhone",
+      "location": {
+        "longitude": 4.84544,
+        "latitude": 45.0604
+      },
+      "metadata": {
+        "address": "49-53 Rue de Chapotte, 07300 Tournon-sur-Rh\u00f4ne",
+        "phone_number": "+33800009110",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "09:00-17:00",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "255165[174270]",
+      "gid": "1758"
+    },
+    {
+      "departement": "07",
+      "nom": "Centre de Vaccination de la CPTS sud Ard\u00e8che C\u00e9vennes",
+      "url": "https://partners.doctolib.fr/hopital-public/les-vans/relai-de-proximite-du-centre-hospitalier-des-cevennes-ardechoises?pid=practice-167899",
+      "ville": "les-vans",
+      "location": {
+        "longitude": 4.13464,
+        "latitude": 44.4043
+      },
+      "metadata": {
+        "address": " Place Fernand Aubert, 07140 Les Vans",
+        "phone_number": "+33800009110",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "13:30-17:30",
+          "mercredi": "13:30-17:30",
+          "jeudi": "13:30-17:30",
+          "vendredi": "13:30-17:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "246862[167899]",
+      "gid": "1412"
+    },
+    {
+      "departement": "07",
+      "nom": "Centre de vaccination de Privas - POLE MAURICE GOUNON PRIVAS",
+      "url": "https://partners.doctolib.fr/hopital-public/privas/ch-vals-d-ardeche-vaccination-covid",
+      "ville": "privas",
+      "location": {
+        "longitude": 4.59413,
+        "latitude": 44.7292
+      },
+      "metadata": {
+        "address": "11 Boulevard du Lyc\u00e9e, 07000 Privas",
+        "phone_number": "+33800009110",
+        "business_hours": {
+          "lundi": "ouvert",
+          "mardi": "ouvert",
+          "mercredi": "ouvert",
+          "jeudi": "ouvert",
+          "vendredi": "ouvert",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240915[]",
+      "gid": "1013"
+    },
+    {
+      "departement": "07",
+      "nom": "Clinique Pasteur de Guilherand-Granges",
+      "url": "https://partners.doctolib.fr/clinique-privee/guilherand-granges/centre-de-vaccination-covid19-clinique-pasteur",
+      "ville": "guilherand-granges",
+      "location": {
+        "longitude": 4.88257,
+        "latitude": 44.9341
+      },
+      "metadata": {
+        "address": "294 Boulevard Charles de Gaulle, 07500 Guilherand-Granges",
+        "phone_number": "+33800009110",
+        "business_hours": {
+          "lundi": "13:30-17:00",
+          "mardi": "08:30-12:30/13:30-17:00",
+          "mercredi": "08:30-12:30/13:30-17:00",
+          "jeudi": "08:30-12:30/13:30-17:00",
+          "vendredi": "08:30-12:30/13:30-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243179[]",
+      "gid": "694"
+    }
+  ]
+}

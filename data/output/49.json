@@ -1,0 +1,438 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-12T09:04:10.771050+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "49",
+      "nom": "Plateau de consultations du service de maladies infectieuses - ANGERS -professionnels de sant\u00e9 ext\u00e9rieurs au CHU",
+      "url": "https://partners.doctolib.fr/hopital-public/angers/chu-d-angers-centre-de-vaccination-reserve-aux-professionnels-de-sante-de-l-etablissement",
+      "ville": "angers",
+      "location": {
+        "longitude": -0.554632,
+        "latitude": 47.4816
+      },
+      "metadata": {
+        "address": "4 Rue Larrey, 49100 Angers",
+        "business_hours": {
+          "lundi": "8h45-16h00",
+          "mardi": "8h45-16h00",
+          "mercredi": "8h45-16h00",
+          "jeudi": "8h45-16h00",
+          "vendredi": "8h45-16h00",
+          "samedi": "8h45-16h00",
+          "dimanche": "8h45-16h00"
+        }
+      },
+      "prochain_rdv": "2021-04-12T09:36:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 39,
+      "internal_id": "240050[]",
+      "gid": "55"
+    },
+    {
+      "departement": "49",
+      "nom": "CH de Cholet - Vaccination Covid-19 STRICTEMENT RESERVE AUX PROFESSIONNELS DE SANTE",
+      "url": "https://partners.doctolib.fr/hopital-public/cholet/centre-de-vaccination-covid-ch-cholet",
+      "ville": "cholet",
+      "location": {
+        "longitude": -0.896286300000043,
+        "latitude": 47.0422344
+      },
+      "metadata": {
+        "address": "1 Rue de Marengo, 49300 Cholet",
+        "phone_number": "+33241496000",
+        "business_hours": {
+          "lundi": "09:00-11:30, 13:30-16:00",
+          "mardi": "09:00-11:30, 13:30-16:00",
+          "mercredi": "09:00-11:30, 13:30-16:00",
+          "jeudi": "09:00-11:30, 13:30-16:00",
+          "vendredi": "09:00-11:30, 13:30-16:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-12T11:10:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 83,
+      "internal_id": "241295[]",
+      "gid": "d241295"
+    },
+    {
+      "departement": "49",
+      "nom": "Pharmacie De La Gare",
+      "url": "https://mapharma.net/49100-5",
+      "ville": "angers",
+      "location": null,
+      "metadata": {
+        "address": "5 ESPLANADE DE LA GARE 49100 ANGERS",
+        "business_hours": null
+      },
+      "prochain_rdv": "2021-04-14T10:30:00",
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 10,
+      "internal_id": null,
+      "gid": "49100-5"
+    },
+    {
+      "departement": "49",
+      "nom": "Centre de Vaccination - ANGERS- Parc des Expositions",
+      "url": "https://www.doctolib.fr/centre-de-sante/angers/centre-de-vaccination-covid-19-angers-parc-des-expositions",
+      "ville": "verrieres-en-anjou",
+      "location": {
+        "longitude": -0.493563,
+        "latitude": 47.497
+      },
+      "metadata": {
+        "address": "51 Route de Paris, 49480 Verri\u00e8res-en-Anjou",
+        "phone_number": "+33241055999",
+        "business_hours": {
+          "lundi": "8h30-12h30 / 14h30-18h30",
+          "mardi": "8h30-12h30 / 14h30-18h30",
+          "mercredi": "8h30-12h30 / 14h30-18h30",
+          "jeudi": "8h30-12h30 / 14h30-18h30",
+          "vendredi": "8h30-12h30 / 14h30-18h30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-17T15:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 164,
+      "internal_id": "264050[]",
+      "gid": "2218"
+    },
+    {
+      "departement": "49",
+      "nom": "Centre de Vaccination - BAUGES - Ren\u00e9 d'Anjou",
+      "url": "https://partners.doctolib.fr/centre-de-sante/bauge-en-anjou/centre-de-vaccination-bauge-en-anjou",
+      "ville": "bauge-en-anjou",
+      "location": {
+        "longitude": -0.100582,
+        "latitude": 47.5406
+      },
+      "metadata": {
+        "address": "1 Place Orgerie, 49150 Baug\u00e9-en-Anjou",
+        "phone_number": "+33973314975",
+        "business_hours": {
+          "lundi": "9h-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "9h-17h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-14T09:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 72,
+      "internal_id": "242296[]",
+      "gid": "738"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "49",
+      "nom": "Centre de Vaccination - CHOLET - Salle des f\u00eates",
+      "url": "https://partners.doctolib.fr/maison-de-sante/cholet/centre-de-vaccination-covid-19-ville-de-cholet",
+      "ville": "cholet",
+      "location": {
+        "longitude": -0.896104,
+        "latitude": 47.0558
+      },
+      "metadata": {
+        "address": "2 Avenue Marcel Prat, 49300 Cholet",
+        "phone_number": "+33244092533",
+        "business_hours": {
+          "lundi": "9h-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "9h-17h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243051[]",
+      "gid": "727"
+    },
+    {
+      "departement": "49",
+      "nom": "Centre de Vaccination - SEGRE EN ANJOU - Parc des Expositions",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/segre-en-anjou-bleu/centre-de-vaccination-covid-19-segre-en-anjou-bleu",
+      "ville": "segre-en-anjou-bleu",
+      "location": {
+        "longitude": -0.890367,
+        "latitude": 47.689
+      },
+      "metadata": {
+        "address": "10 Route de Pouance, 49500 Segr\u00e9-en-Anjou Bleu",
+        "phone_number": "+33241612129",
+        "business_hours": {
+          "lundi": "9h-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242985[]",
+      "gid": "744"
+    },
+    {
+      "departement": "49",
+      "nom": "Centre de Vaccination - LE PIN EN MAUGES - Salle du relais du Bois",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/le-pin-en-mauges/centre-vaccination-covid-19des-mauges-49",
+      "ville": "beaupreau-en-mauges",
+      "location": {
+        "longitude": -0.898037,
+        "latitude": 47.2528
+      },
+      "metadata": {
+        "address": " Avenue du Chemin Vert, 49600 Beaupr\u00e9au-en-Mauges",
+        "phone_number": "+33241717705",
+        "business_hours": {
+          "lundi": "9h-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "9h-17h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242688[]",
+      "gid": "735"
+    },
+    {
+      "departement": "49",
+      "nom": "Centre de Vaccination - SAUMUR - Espace Jean Rostand",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saumur/centre-de-vaccination-covid-19-ville-de-saumur",
+      "ville": "saumur",
+      "location": {
+        "longitude": -0.0674521,
+        "latitude": 47.2683
+      },
+      "metadata": {
+        "address": "404 Rue Emmanuel Clairefond, 49400 Saumur",
+        "phone_number": "+33241831288",
+        "business_hours": {
+          "lundi": "9h-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "9h-17h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242320[]",
+      "gid": "729"
+    },
+    {
+      "departement": "49",
+      "nom": "Centre de Vaccination - ANGERS - Les Greniers St Jean",
+      "url": "https://partners.doctolib.fr/maison-de-sante/angers/la-salle-des-greniers-saint-jean-centre-de-vaccination",
+      "ville": "angers",
+      "location": {
+        "longitude": -0.559236,
+        "latitude": 47.4776
+      },
+      "metadata": {
+        "address": "1 Place du Tertre Saint-laurent, 49100 Angers",
+        "phone_number": "+33241055999",
+        "business_hours": {
+          "lundi": "9h-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "9h-17h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242564[]",
+      "gid": "740"
+    },
+    {
+      "departement": "49",
+      "nom": "Pharmacie Grand Maine",
+      "url": "https://mapharma.net/49100-3",
+      "ville": "angers",
+      "location": null,
+      "metadata": {
+        "address": "CENTRE CIAL GRAND MAINE RUE DU GRAND LAUNAY 49100 ANGERS",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "49100-3"
+    },
+    {
+      "departement": "49",
+      "nom": "Nouvelle Pharmacie Pierre Lise",
+      "url": "https://mapharma.net/49100-4",
+      "ville": "angers",
+      "location": null,
+      "metadata": {
+        "address": "3 AVENUE PASTEUR 49100 ANGERS",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "49100-4"
+    },
+    {
+      "departement": "49",
+      "nom": "Grande Pharmacie St Serge",
+      "url": "https://mapharma.net/49100-1",
+      "ville": "angers",
+      "location": null,
+      "metadata": {
+        "address": "CENTRE COMMERCIAL ANGERS SAINT-SERGE 3 BOULEVARD GASTON RAMON 49100 ANGERS",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "49100-1"
+    },
+    {
+      "departement": "49",
+      "nom": "Pharmacie Le Gall",
+      "url": "https://mapharma.net/49100-2",
+      "ville": "angers",
+      "location": null,
+      "metadata": {
+        "address": "27 RUE HOCHE ET 8 PLACE DE LA VISITATION 49100 ANGERS",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "49100-2"
+    },
+    {
+      "departement": "49",
+      "nom": "Grande Pharmacie Du Pilori",
+      "url": "https://mapharma.net/49100-6",
+      "ville": "angers",
+      "location": null,
+      "metadata": {
+        "address": "6 PLACE DU PILORI 49100 ANGERS",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "49100-6"
+    },
+    {
+      "departement": "49",
+      "nom": "Grande Pharmacie De L'Universite",
+      "url": "https://mapharma.net/49100-8",
+      "ville": "angers",
+      "location": null,
+      "metadata": {
+        "address": "54 BD AYRAULT 49100 ANGERS",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "49100-8"
+    },
+    {
+      "departement": "49",
+      "nom": "Pharmacie Des Halles",
+      "url": "https://mapharma.net/49100-7",
+      "ville": "angers",
+      "location": null,
+      "metadata": {
+        "address": "78 RUE BAUDRIERE 49100 ANGERS",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "49100-7"
+    },
+    {
+      "departement": "49",
+      "nom": "Pharmacie De Bouchemaine",
+      "url": "https://mapharma.net/49080",
+      "ville": "bouchemaine",
+      "location": null,
+      "metadata": {
+        "address": "34 RUE CHEVRIERE 49080 BOUCHEMAINE",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "49080-0"
+    },
+    {
+      "departement": "49",
+      "nom": "Pharmacie Des Erables",
+      "url": "https://mapharma.net/49125",
+      "ville": "tierce",
+      "location": null,
+      "metadata": {
+        "address": "PLACE PIERRE DE COUBERTIN 49125 TIERCE",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "49125-0"
+    }
+  ]
+}

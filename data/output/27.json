@@ -1,0 +1,508 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-12T09:04:10.749138+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "27",
+      "nom": "Equipe Mobile R\u00e9sidences Autonomie et Territoire Eure",
+      "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-175386",
+      "ville": "evreux",
+      "location": {
+        "longitude": 1.11678,
+        "latitude": 49.0299
+      },
+      "metadata": {
+        "address": " Rue L\u00e9on Schwartzenberg, 27000 \u00c9vreux",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-12T12:20:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 242,
+      "internal_id": "240902[162965-162966-162968-162969-162970-164880-171237-171255-164976-171246-174767-177715-180558-164913]",
+      "gid": "1345"
+    },
+    {
+      "departement": "27",
+      "nom": "Centre de vaccination de Saint Andr\u00e9 de l'Eure",
+      "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-171255",
+      "ville": "saint-andre-de-leure",
+      "location": {
+        "longitude": 1.27705,
+        "latitude": 48.9045
+      },
+      "metadata": {
+        "address": "6 Rue de Dreux, 27220 Saint-Andr\u00e9-de-l'Eure",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": "2021-04-27T09:00:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 49,
+      "internal_id": "240902[171255]",
+      "gid": "1423"
+    },
+    {
+      "departement": "27",
+      "nom": "CH Verneuil",
+      "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-162970&%3fspeciality_id=5494",
+      "ville": "verneuil-davre-et-diton",
+      "location": {
+        "longitude": 0.920467,
+        "latitude": 48.7419
+      },
+      "metadata": {
+        "address": "101 Boulevard des Poissonniers, 27130 Verneuil d'Avre et d'Iton",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": "2021-05-14T09:40:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 35,
+      "internal_id": "240902[162970]",
+      "gid": "130"
+    },
+    {
+      "departement": "27",
+      "nom": "CH Eure-seine Vernon",
+      "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-162966&%3fspeciality_id=5494",
+      "ville": "vernon",
+      "location": {
+        "longitude": 1.4878,
+        "latitude": 49.0919
+      },
+      "metadata": {
+        "address": "5 rue du docteur Jules Burnet, 27200 Vernon",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": "2021-05-17T10:40:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 30,
+      "internal_id": "240902[162966]",
+      "gid": "85"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "27",
+      "nom": "CH Les Andelys",
+      "url": "https://partners.doctolib.fr/hopital-public/\u00e9vreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-164913",
+      "ville": "les-andelys",
+      "location": {
+        "longitude": 1.39514,
+        "latitude": 49.2463
+      },
+      "metadata": {
+        "address": " quai Enguerrand de Marigny, 27700 Les Andelys",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240902[164913]",
+      "gid": "125"
+    },
+    {
+      "departement": "27",
+      "nom": "Gisors : salle des f\u00eates",
+      "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-162969",
+      "ville": "gisors",
+      "location": {
+        "longitude": 1.7667,
+        "latitude": 49.278
+      },
+      "metadata": {
+        "address": "78 Rue du Faubourg de Neaufles, 27140 Gisors",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240902[162969]",
+      "gid": "589"
+    },
+    {
+      "departement": "27",
+      "nom": "VERNON Ancien coll\u00e8ge C\u00e9sar Lemaitre annexe CH",
+      "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-174767",
+      "ville": "vernon",
+      "location": {
+        "longitude": 1.48048,
+        "latitude": 49.0939
+      },
+      "metadata": {
+        "address": "8 Rue Saint Lazare (ancien coll\u00e8ge C\u00e9sar Lemaitre), 27200 Vernon",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240902[174767]",
+      "gid": "1650"
+    },
+    {
+      "departement": "27",
+      "nom": "Centre \u00e9ph\u00e9m\u00e8re annexe CH Verneuil",
+      "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-180558",
+      "ville": "verneuil-davre-et-diton",
+      "location": {
+        "longitude": 0.929701,
+        "latitude": 48.7402
+      },
+      "metadata": {
+        "address": "1 Rond point de la Victoire, 27130 Verneuil d'Avre et d'Iton",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240902[180558]",
+      "gid": "2337"
+    },
+    {
+      "departement": "27",
+      "nom": "Le Neubourg - salle du haut phare",
+      "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-171237",
+      "ville": "le-neubourg",
+      "location": {
+        "longitude": 0.909416,
+        "latitude": 49.1402
+      },
+      "metadata": {
+        "address": " Rue Jean de la Fontaine, 27110 Le Neubourg",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240902[171237]",
+      "gid": "1424"
+    },
+    {
+      "departement": "27",
+      "nom": "CH Pont Audemer",
+      "url": "https://partners.doctolib.fr/hopital-public/pont-audemer/centre-de-vaccination-covid-centre-hospitalier-ch-de-la-risle",
+      "ville": "pont-audemer",
+      "location": {
+        "longitude": 0.514494,
+        "latitude": 49.3467
+      },
+      "metadata": {
+        "address": "64 64 route de lisieux, 27500 Pont-Audemer",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242833[]",
+      "gid": "168"
+    },
+    {
+      "departement": "27",
+      "nom": "Halle des expositions d'Evreux",
+      "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-164976&%3fspeciality_id=5494",
+      "ville": "evreux",
+      "location": {
+        "longitude": 1.1357,
+        "latitude": 49.0234
+      },
+      "metadata": {
+        "address": "27 Avenue du Mar\u00e9chal Foch, 27000 \u00c9vreux",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240902[164976]",
+      "gid": "581"
+    },
+    {
+      "departement": "27",
+      "nom": "CH Bernay",
+      "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-162968&%3fspeciality_id=5494",
+      "ville": "bernay",
+      "location": {
+        "longitude": 0.589182,
+        "latitude": 49.0904
+      },
+      "metadata": {
+        "address": "5 Rue Anne de Ticheville, 27300 Bernay",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240902[162968]",
+      "gid": "128"
+    },
+    {
+      "departement": "27",
+      "nom": "Louviers : maison des sports et associations",
+      "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-164880&%3fspeciality_id=5494",
+      "ville": "louviers",
+      "location": {
+        "longitude": 1.15292,
+        "latitude": 49.208
+      },
+      "metadata": {
+        "address": "10 Avenue du Mar\u00e9chal Leclerc, 27400 Louviers",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240902[164880]",
+      "gid": "582"
+    },
+    {
+      "departement": "27",
+      "nom": "BERNAY : centre ville ANNEXE CH BERNAY",
+      "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-177715",
+      "ville": "bernay",
+      "location": {
+        "longitude": 0.595117,
+        "latitude": 49.0863
+      },
+      "metadata": {
+        "address": "8 Rue Jacques Philippe Breant, 27300 Bernay",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240902[177715]",
+      "gid": "2155"
+    },
+    {
+      "departement": "27",
+      "nom": "CHI Eure-seine site Evreux",
+      "url": "https://partners.doctolib.fr/hopital-public/evreux/ch-eure-seine-centre-de-vaccination-covid-vacci-covid-27?pid=practice-162965&%3fspeciality_id=5494",
+      "ville": "evreux",
+      "location": {
+        "longitude": 1.11602,
+        "latitude": 49.0315
+      },
+      "metadata": {
+        "address": " L\u00e9on Schwartzenberg, 27000 \u00c9vreux",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "",
+          "dimanche": ""
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240902[162965]",
+      "gid": "74"
+    },
+    {
+      "departement": "27",
+      "nom": "Grand centre \u00e9tat d'Evreux",
+      "url": "https://partners.doctolib.fr/maison-de-sante/evreux/centre-de-vaccination-evreux?pid=practice-164744",
+      "ville": "evreux",
+      "location": {
+        "longitude": 1.13601,
+        "latitude": 49.0239
+      },
+      "metadata": {
+        "address": " Avenue du Mar\u00e9chal Foch - Halle des expositions, 27000 \u00c9vreux",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242803[164744]",
+      "gid": "2407"
+    },
+    {
+      "departement": "27",
+      "nom": "Pharmacie De La Couture",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-la-couture-bernay",
+      "ville": "bernay",
+      "location": {
+        "longitude": 0.5997577,
+        "latitude": 49.0854874
+      },
+      "metadata": {
+        "address": "avenue du 8 mai 1945, 27300 Bernay",
+        "phone_number": "+33232458536",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1fa5e8e0"
+    },
+    {
+      "departement": "27",
+      "nom": "Pharmacie Ferrand-Gaillard",
+      "url": "https://mapharma.net/27120",
+      "ville": "pacy-sur-eure",
+      "location": null,
+      "metadata": {
+        "address": "18 Rue Isambard 27120 PACY SUR EURE",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "27120-0"
+    }
+  ]
+}

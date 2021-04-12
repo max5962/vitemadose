@@ -1,0 +1,672 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-12T09:04:10.792523+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "68",
+      "nom": "Pharma 6",
+      "url": "https://mapharma.net/68200",
+      "ville": "mulhouse",
+      "location": null,
+      "metadata": {
+        "address": "230-232 rue de Belfort 68200 MULHOUSE",
+        "business_hours": null
+      },
+      "prochain_rdv": "2021-04-15T10:00:00",
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 20,
+      "internal_id": null,
+      "gid": "68200-0"
+    },
+    {
+      "departement": "68",
+      "nom": "Centre de vaccination d'Altkirch",
+      "url": "https://partners.doctolib.fr/centre-de-sante/altkirch/centre-de-vaccination-covid-19-mairie-d-altkirch",
+      "ville": "altkirch",
+      "location": {
+        "longitude": 7.23182,
+        "latitude": 47.6098
+      },
+      "metadata": {
+        "address": " Rue de Hirtzbach, 68130 Altkirch",
+        "phone_number": "+33970818161",
+        "business_hours": {
+          "lundi": "non pr\u00e9cis\u00e9",
+          "mardi": "non pr\u00e9cis\u00e9",
+          "mercredi": "non pr\u00e9cis\u00e9",
+          "jeudi": "non pr\u00e9cis\u00e9",
+          "vendredi": "non pr\u00e9cis\u00e9",
+          "samedi": "non pr\u00e9cis\u00e9",
+          "dimanche": "non pr\u00e9cis\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-26T09:38:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 14,
+      "internal_id": "244266[]",
+      "gid": "1206"
+    },
+    {
+      "departement": "68",
+      "nom": "Centre de vaccination de Munster - Salle des F\u00eates",
+      "url": "https://partners.doctolib.fr/centre-de-sante/munster/centre-de-vaccination-covid-19-munster?pid=practice-178928",
+      "ville": "munster",
+      "location": {
+        "longitude": 7.13931,
+        "latitude": 48.04
+      },
+      "metadata": {
+        "address": "14 Rue de la R\u00e9publique, 68140 Munster",
+        "phone_number": "+33970818161",
+        "business_hours": {
+          "lundi": "9:00-17:00",
+          "mardi": "ferm\u00e9",
+          "mercredi": "9:00-17:00",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "9:00-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-10T12:24:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 9,
+      "internal_id": "261851[178928]",
+      "gid": "2342"
+    },
+    {
+      "departement": "68",
+      "nom": "Centre de vaccination multisites UGECAM (Centres m\u00e9dicaux Masevaux, Jungholtz, Bouxwiller)",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/haut-rhin/centres-de-vaccination-covid-19-ugecam-haut-rhin?pid=practice-170520",
+      "ville": "bouxwiller",
+      "location": {
+        "longitude": 7.32965,
+        "latitude": 47.5069
+      },
+      "metadata": {
+        "address": " Luppach, 68480 Bouxwiller",
+        "phone_number": "+33970818161",
+        "business_hours": {
+          "lundi": "14:30-17:30",
+          "mardi": "8:30-16:00",
+          "mercredi": "8:30-16:00",
+          "jeudi": "8:30-16:00",
+          "vendredi": "8:30-12:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-12T09:10:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 84,
+      "internal_id": "250393[170520]",
+      "gid": "1524"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "68",
+      "nom": "Centre de vaccination de Mulhouse",
+      "url": "https://partners.doctolib.fr/centre-de-sante/mulhouse/centre-de-vaccination-de-mulhouse?pid=practice-164975%3Fspeciality_id%3D5494",
+      "ville": "mulhouse",
+      "location": {
+        "longitude": 7.32298,
+        "latitude": 47.7419
+      },
+      "metadata": {
+        "address": "16 boulevard Charles Stoessel, 68200 Mulhouse",
+        "phone_number": "+33970818161",
+        "business_hours": {
+          "lundi": "non pr\u00e9cis\u00e9",
+          "mardi": "non pr\u00e9cis\u00e9",
+          "mercredi": "non pr\u00e9cis\u00e9",
+          "jeudi": "non pr\u00e9cis\u00e9",
+          "vendredi": "non pr\u00e9cis\u00e9",
+          "samedi": "non pr\u00e9cis\u00e9",
+          "dimanche": "non pr\u00e9cis\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": null,
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "1008"
+    },
+    {
+      "departement": "68",
+      "nom": "Centre de vaccination de Rixheim - Cit\u00e9 des sports",
+      "url": "https://partners.doctolib.fr/entre-de-sante/rixheim/centre-de-vaccination-de-rixheim?pid=practice-179721",
+      "ville": "rixheim",
+      "location": {
+        "longitude": 7.39483,
+        "latitude": 47.7617
+      },
+      "metadata": {
+        "address": "2 All\u00e9e Vaclav Havel, 68170 Rixheim",
+        "phone_number": "+33970818161",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "14:00-18:00",
+          "mercredi": "14:00-18:00",
+          "jeudi": "14:00-18:00",
+          "vendredi": "14:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "262756[179721]",
+      "gid": "2341"
+    },
+    {
+      "departement": "68",
+      "nom": "Centre hsopitalier de Rouffach",
+      "url": "https://partners.doctolib.fr/centre-de-sante/rouffach/centre-de-vaccination-covid-19-rouffach?pid=practice-179615",
+      "ville": "rouffach",
+      "location": {
+        "longitude": 7.29265,
+        "latitude": 47.9529
+      },
+      "metadata": {
+        "address": "27 Rue du 4e Spahis Marocains, 68250 Rouffach",
+        "phone_number": "+33970818161",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "14:30-17:30",
+          "mercredi": "08:30-11:30/14:30-17:30",
+          "jeudi": "08:30-11:30/14:30-17:30",
+          "vendredi": "08:30-11:30/14:30-17:30",
+          "samedi": "08:30-11:30/14:30-17:30",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "262621[179615]",
+      "gid": "2343"
+    },
+    {
+      "departement": "68",
+      "nom": "Centre de vaccination de Wittenheim - Complexe L\u00e9o Lagrange",
+      "url": "https://partners.doctolib.fr/centre-de-sante/wittenheim/centre-de-vaccination-covid-19-ville-de-wittenheim?pid=practice-176378",
+      "ville": "wittenheim",
+      "location": {
+        "longitude": 7.32741,
+        "latitude": 47.8112
+      },
+      "metadata": {
+        "address": "4 Rue du Vercors, 68270 Wittenheim",
+        "phone_number": "+33970818161",
+        "business_hours": {
+          "lundi": "9:00-11:30 / 13:30-16:00",
+          "mardi": "9:00-11:30 / 13:30-16:00",
+          "mercredi": "9:00-11:30 / 13:30-16:00",
+          "jeudi": "9:00-11:30 / 13:30-16:00",
+          "vendredi": "9:00-11:30 / 13:30-16:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "258365[176378]",
+      "gid": "1992"
+    },
+    {
+      "departement": "68",
+      "nom": "Centre de vaccination mobile - Mulhouse Alsace Agglom\u00e9ration (M2A)",
+      "url": "https://partners.doctolib.fr/centre-de-sante/mulhouse/centre-de-vaccination-vacci-bus-m2a?pid=practice-175755",
+      "ville": "mulhouse",
+      "location": {
+        "longitude": 7.33526,
+        "latitude": 47.7512
+      },
+      "metadata": {
+        "address": " Rue Pierre et Marie Curie, 68200 Mulhouse",
+        "phone_number": "+33970818161",
+        "business_hours": {
+          "lundi": "8:00-18:00",
+          "mardi": "8:00-18:00",
+          "mercredi": "8:00-18:00",
+          "jeudi": "8:00-18:00",
+          "vendredi": "8:00-18:00",
+          "samedi": "8:00-18:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "256821[175755]",
+      "gid": "2007"
+    },
+    {
+      "departement": "68",
+      "nom": "Centre de vaccination de Guebwiller - Salle de gymnastique 1860",
+      "url": "https://partners.doctolib.fr/centre-de-sante/guebwiller/centre-de-vaccination-covid-ville-de-guebwiller?pid=practice-176830",
+      "ville": "guebwiller",
+      "location": {
+        "longitude": 7.20714,
+        "latitude": 47.9084
+      },
+      "metadata": {
+        "address": "25 Rue de Reims, 68500 Guebwiller",
+        "phone_number": "+33970818161",
+        "business_hours": {
+          "lundi": "8:00-12:00 / 14:00-18:00",
+          "mardi": "8:00-12:00 / 14:00-18:00",
+          "mercredi": "8:00-12:00 / 14:00-18:00",
+          "jeudi": "8:00-12:00 / 14:00-18:00",
+          "vendredi": "8:00-12:00 / 14:00-18:00",
+          "samedi": "8:00-12:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "258445[176830]",
+      "gid": "1993"
+    },
+    {
+      "departement": "68",
+      "nom": "Centre de vaccination de Ribeauvill\u00e9 - Gymnase",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/ribeauville/centre-de-vaccination-covid-19-ribeauville?pid=practice-176685",
+      "ville": "ribeauville",
+      "location": {
+        "longitude": 7.33594,
+        "latitude": 48.1933
+      },
+      "metadata": {
+        "address": " Rue Pierre de Coubertin, 68150 Ribeauvill\u00e9",
+        "phone_number": "+33970818161",
+        "business_hours": {
+          "lundi": "8:30-12:00",
+          "mardi": "8:30-12:00",
+          "mercredi": "8:30-12:00",
+          "jeudi": "8:30-12:00",
+          "vendredi": "8:30-12:00",
+          "samedi": "8:30-12:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "258288[176685]",
+      "gid": "1996"
+    },
+    {
+      "departement": "68",
+      "nom": "Centre de vaccination de Cernay",
+      "url": "https://partners.doctolib.fr/centre-de-sante/cernay/centre-de-vaccination-covid-19-ville-de-cernay?pid=practice-166316",
+      "ville": "cernay",
+      "location": {
+        "longitude": 7.17404,
+        "latitude": 47.8065
+      },
+      "metadata": {
+        "address": "32 Rue Georges Risler, 68700 Cernay",
+        "phone_number": "+33970818161",
+        "business_hours": {
+          "lundi": "non pr\u00e9cis\u00e9",
+          "mardi": "non pr\u00e9cis\u00e9",
+          "mercredi": "non pr\u00e9cis\u00e9",
+          "jeudi": "non pr\u00e9cis\u00e9",
+          "vendredi": "non pr\u00e9cis\u00e9",
+          "samedi": "non pr\u00e9cis\u00e9",
+          "dimanche": "non pr\u00e9cis\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244647[166316]",
+      "gid": "1250"
+    },
+    {
+      "departement": "68",
+      "nom": "Centre de vaccination de Saint-Louis",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-louis/centre-de-vaccination-forum-jean-marie-zoelle-saint-louis",
+      "ville": "saint-louis",
+      "location": {
+        "longitude": 7.56427,
+        "latitude": 47.5891
+      },
+      "metadata": {
+        "address": "1 Place du Forum, 68300 Saint-Louis",
+        "phone_number": "+33970818161",
+        "business_hours": {
+          "lundi": "non pr\u00e9cis\u00e9",
+          "mardi": "non pr\u00e9cis\u00e9",
+          "mercredi": "non pr\u00e9cis\u00e9",
+          "jeudi": "non pr\u00e9cis\u00e9",
+          "vendredi": "non pr\u00e9cis\u00e9",
+          "samedi": "non pr\u00e9cis\u00e9",
+          "dimanche": "non pr\u00e9cis\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243424[]",
+      "gid": "1010"
+    },
+    {
+      "departement": "68",
+      "nom": "Centre de vaccination de Colmar",
+      "url": "https://partners.doctolib.fr/centre-de-sante/colmar/centre-de-vaccination-covid-19-de-colmar",
+      "ville": "colmar",
+      "location": {
+        "longitude": 7.36005,
+        "latitude": 48.0986
+      },
+      "metadata": {
+        "address": " Avenue de la Foire aux Vins, 68000 Colmar",
+        "phone_number": "+33970818161",
+        "business_hours": {
+          "lundi": "non pr\u00e9cis\u00e9",
+          "mardi": "non pr\u00e9cis\u00e9",
+          "mercredi": "non pr\u00e9cis\u00e9",
+          "jeudi": "non pr\u00e9cis\u00e9",
+          "vendredi": "non pr\u00e9cis\u00e9",
+          "samedi": "non pr\u00e9cis\u00e9",
+          "dimanche": "non pr\u00e9cis\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242936[]",
+      "gid": "1012"
+    },
+    {
+      "departement": "68",
+      "nom": "Centre de vaccination de R\u00e9guisheim",
+      "url": "https://partners.doctolib.fr/centre-de-sante/reguisheim/centre-de-vaccination-covid-19-espace-trois-coeur-reguisheim?pid=practice-166677",
+      "ville": "reguisheim",
+      "location": {
+        "longitude": 7.34817,
+        "latitude": 47.8935
+      },
+      "metadata": {
+        "address": "10 Rue de la For\u00eat, 68890 R\u00e9guisheim",
+        "phone_number": "+33970818161",
+        "business_hours": {
+          "lundi": "non pr\u00e9cis\u00e9",
+          "mardi": "non pr\u00e9cis\u00e9",
+          "mercredi": "non pr\u00e9cis\u00e9",
+          "jeudi": "non pr\u00e9cis\u00e9",
+          "vendredi": "non pr\u00e9cis\u00e9",
+          "samedi": "non pr\u00e9cis\u00e9",
+          "dimanche": "non pr\u00e9cis\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "245204[166677]",
+      "gid": "1276"
+    },
+    {
+      "departement": "68",
+      "nom": "Centre de vaccination de Ste Marie Aux Mines",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/sainte-marie-aux-mines/vaccination-covid-19-du-val-d-argent-vaccination-covid-19-sainte-marie-aux-mines",
+      "ville": "sainte-marie-aux-mines",
+      "location": {
+        "longitude": 7.18098,
+        "latitude": 48.2444
+      },
+      "metadata": {
+        "address": "5 Rue Kroeber Imlin, 68160 Sainte-Marie-aux-Mines",
+        "phone_number": "+33970818161",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "13:30-17:30",
+          "mercredi": "13:30-17:30",
+          "jeudi": "13:30-17:30",
+          "vendredi": "13:30-17:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "248240[]",
+      "gid": "1352"
+    },
+    {
+      "departement": "68",
+      "nom": "Centre de vaccination de Saint-Amarin - Complexe culturel Le CAP",
+      "url": "https://www.doctolib.fr/centre-de-sante/saint-amarin/centre-de-vaccination-covid-19-de-la-vallee-de-st-amarin",
+      "ville": "saint-amarin",
+      "location": {
+        "longitude": 7.03221,
+        "latitude": 47.8726
+      },
+      "metadata": {
+        "address": " Place des Diables Bleus, 68550 Saint-Amarin",
+        "phone_number": "+33970818161",
+        "business_hours": {
+          "lundi": "9:00-13:00",
+          "mardi": "14:00-18:00",
+          "mercredi": "14:00-18:00",
+          "jeudi": "14:00-18:00",
+          "vendredi": "14:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "264060[]",
+      "gid": "2410"
+    },
+    {
+      "departement": "68",
+      "nom": "Pharmacie Eich",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-eich-durmenach",
+      "ville": "durmenach",
+      "location": {
+        "longitude": 7.3404377,
+        "latitude": 47.5316748
+      },
+      "metadata": {
+        "address": "23 Rue du Chemin de Fer, 68480 Durmenach",
+        "phone_number": "+33389258112",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "892c212f"
+    },
+    {
+      "departement": "68",
+      "nom": "Pharmacie De La Gare",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-la-gare-saint-louis",
+      "ville": "saint-louis",
+      "location": {
+        "longitude": 7.557824200000001,
+        "latitude": 47.5905134
+      },
+      "metadata": {
+        "address": "80 rue de Mulhouse, 68300 saint louis",
+        "phone_number": "+33389692380",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "909048ad"
+    },
+    {
+      "departement": "68",
+      "nom": "Pharmacie Du Centre",
+      "url": "https://mapharma.net/68000-1",
+      "ville": "colmar",
+      "location": null,
+      "metadata": {
+        "address": "97 route de Neuf-Brisach 68000 COLMAR",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "68000-1"
+    },
+    {
+      "departement": "68",
+      "nom": "Pharmacie Marck",
+      "url": "https://mapharma.net/68000-2",
+      "ville": "colmar",
+      "location": null,
+      "metadata": {
+        "address": "58 rue des Marchands 68000 COLMAR",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "68000-2"
+    },
+    {
+      "departement": "68",
+      "nom": "Apv Pharmacie Selarl",
+      "url": "https://mapharma.net/68110",
+      "ville": "illzach",
+      "location": null,
+      "metadata": {
+        "address": "20 rue Hoffet 68110 ILLZACH",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "68110-0"
+    },
+    {
+      "departement": "68",
+      "nom": "Nouvelle Pharmacie Centrale",
+      "url": "https://mapharma.net/68270",
+      "ville": "wittenheim",
+      "location": null,
+      "metadata": {
+        "address": "22 Rue Markstein 68270 WITTENHEIM",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "68270-0"
+    },
+    {
+      "departement": "68",
+      "nom": "Pharmacie Trinationale",
+      "url": "https://mapharma.net/68300",
+      "ville": "saint-louis",
+      "location": null,
+      "metadata": {
+        "address": "32 avenue de Bale 68300 SAINT LOUIS",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "68300-0"
+    },
+    {
+      "departement": "68",
+      "nom": "Centre de vaccination Covid-19 - Ribeauville",
+      "url": "https://partners.doctolib.fr/centre-de-sante/ribeauville/centre-de-vaccination-covid-19-ribeauville",
+      "ville": "ribeauville",
+      "location": {
+        "longitude": 7.3340202,
+        "latitude": 48.1932673
+      },
+      "metadata": {
+        "address": "Rue Pierre de Coubertin, 68150 Ribeauvill\u00e9",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "258288[]",
+      "gid": "d258288"
+    },
+    {
+      "departement": "68",
+      "nom": "Centre de vaccination de Rixheim",
+      "url": "https://partners.doctolib.fr/centre-de-sante/rixheim/centre-de-vaccination-de-rixheim",
+      "ville": "rixheim",
+      "location": {
+        "longitude": 7.3965664,
+        "latitude": 47.7620942
+      },
+      "metadata": {
+        "address": "2 Rue Vaclav Havel, 68170 Rixheim",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "262756[]",
+      "gid": "d262756"
+    }
+  ]
+}

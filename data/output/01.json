@@ -1,0 +1,392 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-12T09:04:10.727709+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "01",
+      "nom": "Pharmacie Du Coll\u00e8ge",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-du-college",
+      "ville": "nantua",
+      "location": {
+        "longitude": 5.606802999999999,
+        "latitude": 46.153488
+      },
+      "metadata": {
+        "address": "19 rue du Coll\u00e8ge, 01130 Nantua",
+        "phone_number": "+33474750042",
+        "business_hours": null
+      },
+      "prochain_rdv": "2021-04-13T11:00:00+00:00",
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 20,
+      "internal_id": null,
+      "gid": "feb094ba"
+    },
+    {
+      "departement": "01",
+      "nom": "Pharmacie Des Deux Rives",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-deux-rives-montreal-la-cluse",
+      "ville": "montreal-la-cluse",
+      "location": {
+        "longitude": 5.5744149,
+        "latitude": 46.1711369
+      },
+      "metadata": {
+        "address": "15 avenue de Bresse, 01460 Montr\u00e9al-la-Cluse",
+        "phone_number": "+33474760666",
+        "business_hours": null
+      },
+      "prochain_rdv": "2021-04-13T11:00:00+00:00",
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 18,
+      "internal_id": null,
+      "gid": "0b066c1c"
+    },
+    {
+      "departement": "01",
+      "nom": "Centre de vaccination de Bugey Sud - Boulodrome couvert du Bas-Bugey",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/belley/centre-de-vaccination-covid-19-bugey-sud",
+      "ville": "belley",
+      "location": {
+        "longitude": 5.6823,
+        "latitude": 45.7496
+      },
+      "metadata": {
+        "address": "520 Avenue Hoff, 01300 Belley",
+        "phone_number": "+33973056509",
+        "business_hours": {
+          "lundi": "09:00-18:00 ",
+          "mardi": "09:00-18:00 ",
+          "mercredi": "09:00-18:00",
+          "jeudi": "09:00-18:00",
+          "vendredi": "09:00-18:00",
+          "samedi": "09:00-18:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-13T12:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 110,
+      "internal_id": "242898[]",
+      "gid": "779"
+    },
+    {
+      "departement": "01",
+      "nom": "Centre de vaccination de Valserh\u00f4ne - Centre Jean Marinet",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/valserhone-1200/jean-marinet/centre-de-vaccination-de-jean-marinet",
+      "ville": "valserhone",
+      "location": {
+        "longitude": 5.828,
+        "latitude": 46.1084
+      },
+      "metadata": {
+        "address": " Place Jeanne d'Arc, 01200 VALSERHONE",
+        "business_hours": {
+          "lundi": "13:00-18:00",
+          "mardi": "09:00-12:00/13:00-18:00",
+          "mercredi": "09:00-12:00/13:00-18:00",
+          "jeudi": "09:00-12:00/13:00-18:00",
+          "vendredi": "13:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-22T18:10:00.000000+0200",
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 182,
+      "internal_id": null,
+      "gid": "1628"
+    },
+    {
+      "departement": "01",
+      "nom": "Centre de vaccination du Plateau d'Hauteville - Salle des F\u00eates",
+      "url": "https://partners.doctolib.fr/centre-de-sante/plateau-d-hauteville/centre-de-vaccination-covid-19-plateau-d-haudeville?pid=practice-181187",
+      "ville": "plateau-dhauteville",
+      "location": {
+        "longitude": 5.60236,
+        "latitude": 45.9783
+      },
+      "metadata": {
+        "address": " Place du Docteur Rougy, 01110 Plateau d'Hauteville",
+        "phone_number": "+33456232000",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-17:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-23T12:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 33,
+      "internal_id": "264639[181187]",
+      "gid": "2398"
+    },
+    {
+      "departement": "01",
+      "nom": "Pharmacie Centrale Montrevel",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-centrale-montrevel-montrevel-en-bresse",
+      "ville": "montrevel-en-bresse",
+      "location": {
+        "longitude": 5.1284131,
+        "latitude": 46.33727589999999
+      },
+      "metadata": {
+        "address": "25 Grande Rue, 01340 Montrevel en Bresse",
+        "phone_number": "+33474254017",
+        "business_hours": null
+      },
+      "prochain_rdv": "2021-04-23T15:45:00+00:00",
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 8,
+      "internal_id": null,
+      "gid": "7e4fc7e4"
+    },
+    {
+      "departement": "01",
+      "nom": "Centre de vaccination du CH d'Oyonnax - Centre hospitalier du Haut Bugey",
+      "url": "https://partners.doctolib.fr/hopital-public/oyonnax/centre-de-vaccination-du-centre-hospitalier-du-haut-bugey",
+      "ville": "oyonnax",
+      "location": {
+        "longitude": 5.62812,
+        "latitude": 46.2759
+      },
+      "metadata": {
+        "address": "1 Route de Veyziat, 01100 Oyonnax",
+        "phone_number": "+33474817545",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-17:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-23T16:25:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 36,
+      "internal_id": "241931[]",
+      "gid": "797"
+    },
+    {
+      "departement": "01",
+      "nom": "Centre de vaccination de Bourg-en-Bresse - Gymnase St Roch",
+      "url": "https://www.maiia.com/centre-de-vaccination/01000-bourg-en-bresse/centre-de-vaccination---gymnase-saint-roch--bourg-en-bresse",
+      "ville": "bourg-en-bresse",
+      "location": {
+        "longitude": 5.22865,
+        "latitude": 46.1944
+      },
+      "metadata": {
+        "address": "20 Rue Charles Demia, 01000 Bourg-en-Bresse",
+        "phone_number": "+33474454076",
+        "business_hours": {
+          "lundi": "09:00-19:00",
+          "mardi": "09:00-19:00",
+          "mercredi": "09:00-19:00",
+          "jeudi": "09:00-19:00",
+          "vendredi": "09:00-19:00",
+          "samedi": "Ferm\u00e9",
+          "dimanche": "Ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-26T09:05:00.000000Z",
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 56,
+      "internal_id": null,
+      "gid": "78"
+    },
+    {
+      "departement": "01",
+      "nom": "Centre de vaccination de Villars-les-Dombes - Halle des Sports",
+      "url": "https://www.maiia.com/centre-de-vaccination/01330-villars-les-dombes/centre-de-vaccination-de-dombes",
+      "ville": "villars-les-dombes",
+      "location": {
+        "longitude": 5.02565,
+        "latitude": 46.0003
+      },
+      "metadata": {
+        "address": " Rue de Dombes, 01330 Villars-les-Dombes",
+        "business_hours": {
+          "lundi": "09:00-13:00",
+          "mardi": "09:00-13:00",
+          "mercredi": "09:00-13:00",
+          "jeudi": "13:00-17:00",
+          "vendredi": "09:00-13:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-10T09:05:00.000000Z",
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 18,
+      "internal_id": null,
+      "gid": "2399"
+    },
+    {
+      "departement": "01",
+      "nom": "Centre de vaccination de la Plaine de l'Ain - Espace 1500",
+      "url": "https://www.maiia.com/centre-de-vaccination/01500-amberieu-en-bugey/centre-de-vaccination-de-la-plaine-de-l-ain",
+      "ville": "amberieu-en-bugey",
+      "location": {
+        "longitude": 5.34764,
+        "latitude": 45.961
+      },
+      "metadata": {
+        "address": "8 Rue du Savoir, 01500 Amb\u00e9rieu-en-Bugey",
+        "phone_number": "+33428640049",
+        "business_hours": {
+          "lundi": "08:30-12:30/14:00-18:00",
+          "mardi": "08:30-12:30/14:00-18:00",
+          "mercredi": "08:30-12:30/14:00-18:00",
+          "jeudi": "08:30-12:30/14:00-18:00",
+          "vendredi": "08:30-12:30/14:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-10T15:50:00.000000Z",
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 180,
+      "internal_id": null,
+      "gid": "1216"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "01",
+      "nom": "Centre de vaccination du Pays de Gex - Centre hospitalier du Pays de Gex",
+      "url": "https://partners.doctolib.fr/centre-de-sante/gex/centre-de-vaccination-pays-de-gex-agglo?pid=practice-168273",
+      "ville": "gex",
+      "location": {
+        "longitude": 6.05794,
+        "latitude": 46.3224
+      },
+      "metadata": {
+        "address": "160 Rue Marc Panissod, 01170 Gex",
+        "phone_number": "+33485292109",
+        "business_hours": {
+          "lundi": "08:00-12:00/14:00-18:00",
+          "mardi": "08:00-12:00/14:00-18:00",
+          "mercredi": "08:00-12:00/14:00-18:00",
+          "jeudi": "08:00-12:00/14:00-18:00",
+          "vendredi": "08:00-12:00/14:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "247783[168273]",
+      "gid": "1300"
+    },
+    {
+      "departement": "01",
+      "nom": "L'H\u00f4pital Nord-Ouest - Site de Tr\u00e9voux",
+      "url": "https://partners.doctolib.fr/hopital-public/villefranche-sur-saone/centre-de-vaccination-covid-trevoux-hopital-nord-ouest?pid=practice-177499",
+      "ville": "trevoux",
+      "location": {
+        "longitude": 4.77106,
+        "latitude": 45.9404
+      },
+      "metadata": {
+        "address": " Avenue du Docteur Bollet, 01600 Tr\u00e9voux",
+        "phone_number": "+33474105018",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "09:00-12:00/13:00-18:00",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "09:00-12:00/13:00-18:00",
+          "vendredi": "09:00-12:00/13:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "259657[177499]",
+      "gid": "2012"
+    },
+    {
+      "departement": "01",
+      "nom": "Centre de vaccination Miribel C\u00f4ti\u00e8re - Th\u00e9\u00e2tre All\u00e9gro",
+      "url": "https://partners.doctolib.fr/centre-de-sante/miribel/centre-de-vaccination-miribel-cotiere",
+      "ville": "miribel",
+      "location": {
+        "longitude": 4.95731,
+        "latitude": 45.8269
+      },
+      "metadata": {
+        "address": " Place de la R\u00e9publique, 01700 Miribel",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "08:30-12:30",
+          "mercredi": "08:30-12:30",
+          "jeudi": "08:30-12:00",
+          "vendredi": "08:30-12:00",
+          "samedi": "08:30-12:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "250597[]",
+      "gid": "1387"
+    },
+    {
+      "departement": "01",
+      "nom": "La Pharmacie Du Geant",
+      "url": "https://mapharma.net/01100-1",
+      "ville": "arbent",
+      "location": null,
+      "metadata": {
+        "address": "Centre Cial G\u00e9ant 795, avenue du 19 mars 1962 01100 ARBENT",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "01100-1"
+    },
+    {
+      "departement": "01",
+      "nom": "Pharmacie De Bellignat",
+      "url": "https://mapharma.net/01100-2",
+      "ville": "bellignat",
+      "location": null,
+      "metadata": {
+        "address": "3 Place des Arcades 01100 BELLIGNAT",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "01100-2"
+    }
+  ]
+}

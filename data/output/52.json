@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-12T09:04:10.773385+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "52",
+      "nom": "CH Chaumont",
+      "url": "https://partners.doctolib.fr/hopital-public/chaumont/centre-de-vaccination-du-ch-chaumont",
+      "ville": "chaumont",
+      "location": {
+        "longitude": 5.1386,
+        "latitude": 48.1218
+      },
+      "metadata": {
+        "address": "16 Rue Youri Gagarine, 52000 Chaumont",
+        "phone_number": "+33627273952",
+        "business_hours": {
+          "lundi": "09:00-12:00/13:00-17:00",
+          "mardi": "09:00-12:00/13:00-17:00",
+          "mercredi": "09:00-12:00/13:00-17:00",
+          "jeudi": "09:00-12:00/13:00-17:00",
+          "vendredi": "09:00-12:00/13:00-17:00",
+          "samedi": "09:00-12:00/13:00-17:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-19T09:40:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 156,
+      "internal_id": "241846[]",
+      "gid": "28"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "52",
+      "nom": "Ch Langres",
+      "url": "https://partners.doctolib.fr/hopital-public/langres/centre-de-vaccination-covid-ch-langres",
+      "ville": "langres",
+      "location": {
+        "longitude": 5.33491,
+        "latitude": 47.8564
+      },
+      "metadata": {
+        "address": "12 Rue Jean Favre, 52200 Langres",
+        "phone_number": "+33325878942",
+        "business_hours": {
+          "lundi": "09:00-12:00/13:00-17:00",
+          "mardi": "09:00-12:00/13:00-17:00",
+          "mercredi": "09:00-12:00/13:00-17:00",
+          "jeudi": "09:00-12:00/13:00-17:00",
+          "vendredi": "09:00-12:00/13:00-17:00",
+          "samedi": "09:00-12:00/13:00-17:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242483[164433]",
+      "gid": "51"
+    },
+    {
+      "departement": "52",
+      "nom": "CH Bourbonne-les-Bains",
+      "url": "https://partners.doctolib.fr/hopital-public/bourbonne-les-bains/centre-de-vaccination-covid-ch-de-bourbonne-les-bains",
+      "ville": "bourbonne-les-bains",
+      "location": {
+        "longitude": 5.74542,
+        "latitude": 47.9543
+      },
+      "metadata": {
+        "address": "1 Rue Terrail Lemone, 52400 Bourbonne-les-Bains",
+        "phone_number": "+33325877007",
+        "business_hours": {
+          "lundi": "09:00-12:00/13:00-17:00",
+          "mardi": "09:00-12:00/13:00-17:00",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "09:00-12:00/13:00-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242441[]",
+      "gid": "43"
+    },
+    {
+      "departement": "52",
+      "nom": "CH Saint-Dizier",
+      "url": "https://partners.doctolib.fr/hopital-public/bettancourt-la-ferree/centre-de-vaccination-covid-19-ch-saint-dizier",
+      "ville": "saint-dizier",
+      "location": {
+        "longitude": 4.952,
+        "latitude": 48.643
+      },
+      "metadata": {
+        "address": "20 Avenue du General Sarrail, 52100 Saint-Dizier",
+        "phone_number": "+33325568429",
+        "business_hours": {
+          "lundi": "08:30-17:30",
+          "mardi": "08:30-17:30",
+          "mercredi": "08:30-17:30",
+          "jeudi": "08:30-17:30",
+          "vendredi": "08:30-17:30",
+          "samedi": "non pr\u00e9cis\u00e9",
+          "dimanche": "non pr\u00e9cis\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242232[]",
+      "gid": "35"
+    },
+    {
+      "departement": "52",
+      "nom": "Pharmacie Chene Saint Amand",
+      "url": "https://mapharma.net/52100",
+      "ville": "saint-dizier",
+      "location": null,
+      "metadata": {
+        "address": "ZAC du Ch\u00eane Saint Amand 52100 SAINT DIZIER",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "52100-0"
+    }
+  ]
+}

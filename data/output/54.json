@@ -1,0 +1,1099 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-12T09:04:10.774301+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "54",
+      "nom": "Nancy - Tour Marcel Brot",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-162727",
+      "ville": "nancy",
+      "location": {
+        "longitude": 6.20247,
+        "latitude": 48.6779
+      },
+      "metadata": {
+        "address": "1 Rue Joseph Cugnot, 54000 Nancy",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "9:00-17:00",
+          "mardi": "9:00-17:00",
+          "mercredi": "9:00-17:00",
+          "jeudi": "9:00-17:00",
+          "vendredi": "9:00-17:00",
+          "samedi": "non pr\u00e9cis\u00e9",
+          "dimanche": "non pr\u00e9cis\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-12T09:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 108,
+      "internal_id": "241211[163347-163348-163350-163351-163443-163349-163352-163827-163828-165715-165708-165799-167645-167648-167649-167650-173391-173392-173394-175255-175229-175513-175228-176288-169974-163781-179400-167641-181849-178399-181845-181848-181673-165822]",
+      "gid": "89"
+    },
+    {
+      "departement": "54",
+      "nom": "Site de vaccination de Bagneux - Salle des f\u00eates",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-167645",
+      "ville": "bagneux",
+      "location": {
+        "longitude": 5.883,
+        "latitude": 48.5575
+      },
+      "metadata": {
+        "address": " , 54170 Bagneux",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "9:30-13:30 / 14:00-18:00",
+          "jeudi": "9:30-13:30 / 14:00-18:00",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-13T09:40:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "241211[167645]",
+      "gid": "2011"
+    },
+    {
+      "departement": "54",
+      "nom": "Essey - P\u00f4le m\u00e9dical Pasteur/Kl\u00e9ber",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163443",
+      "ville": "essey-les-nancy",
+      "location": {
+        "longitude": 6.21769,
+        "latitude": 48.7015
+      },
+      "metadata": {
+        "address": "7 Rue Parmentier, 54270 Essey-l\u00e8s-Nancy",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "9:00-17:30",
+          "mardi": "9:00-17:30",
+          "mercredi": "9:00-17:30",
+          "jeudi": "9:00-17:30",
+          "vendredi": "9:00-17:30",
+          "samedi": "non pr\u00e9cis\u00e9",
+          "dimanche": "non pr\u00e9cis\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-15T14:44:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 2,
+      "internal_id": "241211[163443]",
+      "gid": "938"
+    },
+    {
+      "departement": "54",
+      "nom": "Briey - H\u00f4pital Maillot",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-165715",
+      "ville": "val-de-briey",
+      "location": {
+        "longitude": 5.93468,
+        "latitude": 49.2586
+      },
+      "metadata": {
+        "address": "31 Avenue Albert de Briey, 54150 Val de Briey",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "non renseign\u00e9",
+          "mardi": "non renseign\u00e9",
+          "mercredi": "non renseign\u00e9",
+          "jeudi": "non renseign\u00e9",
+          "vendredi": "non renseign\u00e9",
+          "samedi": "non renseign\u00e9",
+          "dimanche": "non renseign\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-21T16:40:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 24,
+      "internal_id": "241211[165715-178399]",
+      "gid": "1227"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "54",
+      "nom": "Laxou - CPN",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-162995",
+      "ville": "laxou",
+      "location": {
+        "longitude": 6.13817,
+        "latitude": 48.6781
+      },
+      "metadata": {
+        "address": "1 Rue du Dr Archambault, 54520 Laxou",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "9:00-12:00/13:00-17:00",
+          "mardi": "9:00-12:00/13:00-17:00",
+          "mercredi": "9:00-12:00/13:00-17:00",
+          "jeudi": "9:00-12:00/13:00-17:00",
+          "vendredi": "9:00-12:00/13:00-17:00",
+          "samedi": "9:00-12:00/13:00-17:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": null,
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "943"
+    },
+    {
+      "departement": "54",
+      "nom": "Site de vaccination du Saintois",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-167649",
+      "ville": "vezelise",
+      "location": {
+        "longitude": 6.0944,
+        "latitude": 48.4898
+      },
+      "metadata": {
+        "address": " Chemin de la laiterie, 54330 V\u00e9zelise",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "9:15-13:15 / 14:00 - 18:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[167649]",
+      "gid": "2009"
+    },
+    {
+      "departement": "54",
+      "nom": "Site de vaccination Moselle et Madon - Centre culturel Jean l'H\u00f4te",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-167641",
+      "ville": "neuves-maisons",
+      "location": {
+        "longitude": 6.10597,
+        "latitude": 48.6148
+      },
+      "metadata": {
+        "address": " Place Ernest Poirson, 54230 Neuves-Maisons",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "14:00-17:00",
+          "mercredi": "14:00-17:00",
+          "jeudi": "14:00-17:00",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[167641]",
+      "gid": "2010"
+    },
+    {
+      "departement": "54",
+      "nom": "Centre de vaccination de Saint-Nicolas de Port - Salle l'Autre Fillature",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-173391",
+      "ville": "saint-nicolas-de-port",
+      "location": {
+        "longitude": 6.30356,
+        "latitude": 48.6348
+      },
+      "metadata": {
+        "address": "8 Rue du Champy, 54210 Saint-Nicolas-de-Port",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "En attente de pr\u00e9cisions",
+          "mardi": "En attente de pr\u00e9cisions",
+          "mercredi": "En attente de pr\u00e9cisions",
+          "jeudi": "En attente de pr\u00e9cisions",
+          "vendredi": "En attente de pr\u00e9cisions",
+          "samedi": "En attente de pr\u00e9cisions",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[173391]",
+      "gid": "2015"
+    },
+    {
+      "departement": "54",
+      "nom": "Jarville - Espace communal Foch",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163351",
+      "ville": "jarville-la-malgrange",
+      "location": {
+        "longitude": 6.20536,
+        "latitude": 48.6693
+      },
+      "metadata": {
+        "address": "15 Rue Marechal Foch, 54140 Jarville-la-Malgrange",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "09:00-13:00/14:00-17:00",
+          "mardi": "09:00-13:00/14:00-17:00",
+          "mercredi": "09:00-13:00/14:00-17:00",
+          "jeudi": "09:00-13:00/14:00-17:00",
+          "vendredi": "09:00-13:00/14:00-17:00",
+          "samedi": "non pr\u00e9cis\u00e9",
+          "dimanche": "non pr\u00e9cis\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[163351]",
+      "gid": "878"
+    },
+    {
+      "departement": "54",
+      "nom": "Centre de vaccination de Longuyon - Salle municipale Pierret",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-167648",
+      "ville": "longuyon",
+      "location": {
+        "longitude": 5.61506,
+        "latitude": 49.4364
+      },
+      "metadata": {
+        "address": " Avenue du General de Gaulle, 54260 Longuyon",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "En attente de pr\u00e9cisions",
+          "mardi": "En attente de pr\u00e9cisions",
+          "mercredi": "En attente de pr\u00e9cisions",
+          "jeudi": "En attente de pr\u00e9cisions",
+          "vendredi": "En attente de pr\u00e9cisions",
+          "samedi": "En attente de pr\u00e9cisions",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[167648]",
+      "gid": "2018"
+    },
+    {
+      "departement": "54",
+      "nom": "Centre de vaccination de Joeuf - Salle Fran\u00e7ois de Curel",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-173394",
+      "ville": "joeuf",
+      "location": {
+        "longitude": 6.01003,
+        "latitude": 49.2308
+      },
+      "metadata": {
+        "address": "57 Rue du Commerce, 54240 J\u0153uf",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "En attente de pr\u00e9cisions",
+          "mardi": "En attente de pr\u00e9cisions",
+          "mercredi": "En attente de pr\u00e9cisions",
+          "jeudi": "En attente de pr\u00e9cisions",
+          "vendredi": "En attente de pr\u00e9cisions",
+          "samedi": "En attente de pr\u00e9cisions",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[173394]",
+      "gid": "2020"
+    },
+    {
+      "departement": "54",
+      "nom": "Centre de vaccination de Dombasle - Salle polyvalente",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-173392",
+      "ville": "dombasle-sur-meurthe",
+      "location": {
+        "longitude": 6.35771,
+        "latitude": 48.6186
+      },
+      "metadata": {
+        "address": " Avenue du L\u00e9omont, 54110 Dombasle-sur-Meurthe",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "En attente de pr\u00e9cisions",
+          "mardi": "En attente de pr\u00e9cisions",
+          "mercredi": "En attente de pr\u00e9cisions",
+          "jeudi": "En attente de pr\u00e9cisions",
+          "vendredi": "En attente de pr\u00e9cisions",
+          "samedi": "En attente de pr\u00e9cisions",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[173392]",
+      "gid": "2017"
+    },
+    {
+      "departement": "54",
+      "nom": "Centre de vaccination de Jarny - Salle Jean Lur\u00e7at",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-175228",
+      "ville": "jarny",
+      "location": {
+        "longitude": 5.88272,
+        "latitude": 49.1581
+      },
+      "metadata": {
+        "address": "7 Rue Cl\u00e9ment Humbert, 54800 Jarny",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "En attente de pr\u00e9cisions",
+          "mardi": "En attente de pr\u00e9cisions",
+          "mercredi": "En attente de pr\u00e9cisions",
+          "jeudi": "En attente de pr\u00e9cisions",
+          "vendredi": "En attente de pr\u00e9cisions",
+          "samedi": "En attente de pr\u00e9cisions",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[175228]",
+      "gid": "2021"
+    },
+    {
+      "departement": "54",
+      "nom": "Centre de vaccination d'Audun-le-Roman - Si\u00e8ge de la communaut\u00e9 de communes Coeur de Pays Haut",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-175513",
+      "ville": "audun-le-roman",
+      "location": {
+        "longitude": 5.90591,
+        "latitude": 49.3667
+      },
+      "metadata": {
+        "address": "71 Route de Briey, 54560 Audun-le-Roman",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "En attente de pr\u00e9cisions",
+          "mardi": "En attente de pr\u00e9cisions",
+          "mercredi": "En attente de pr\u00e9cisions",
+          "jeudi": "En attente de pr\u00e9cisions",
+          "vendredi": "En attente de pr\u00e9cisions",
+          "samedi": "En attente de pr\u00e9cisions",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[175513]",
+      "gid": "2023"
+    },
+    {
+      "departement": "54",
+      "nom": "Centre de vaccination de Villerupt - EPAHD Michel Dinet",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-176288",
+      "ville": "villerupt",
+      "location": {
+        "longitude": 5.92082,
+        "latitude": 49.4696
+      },
+      "metadata": {
+        "address": " Rue Gambetta, 54190 Villerupt",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "En attente de pr\u00e9cisions",
+          "mardi": "En attente de pr\u00e9cisions",
+          "mercredi": "En attente de pr\u00e9cisions",
+          "jeudi": "En attente de pr\u00e9cisions",
+          "vendredi": "En attente de pr\u00e9cisions",
+          "samedi": "En attente de pr\u00e9cisions",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[176288]",
+      "gid": "2024"
+    },
+    {
+      "departement": "54",
+      "nom": "Centre de vaccination de Nancy - Salle des f\u00eates de Gentilly",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-175255",
+      "ville": "nancy",
+      "location": {
+        "longitude": 6.14003,
+        "latitude": 48.6998
+      },
+      "metadata": {
+        "address": "14 Rue Capitaine Guynemer, 54100 Nancy",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "En attente de pr\u00e9cisions",
+          "mardi": "En attente de pr\u00e9cisions",
+          "mercredi": "En attente de pr\u00e9cisions",
+          "jeudi": "En attente de pr\u00e9cisions",
+          "vendredi": "En attente de pr\u00e9cisions",
+          "samedi": "En attente de pr\u00e9cisions",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[175255]",
+      "gid": "2025"
+    },
+    {
+      "departement": "54",
+      "nom": "Centre de vaccination de Pont-\u00e0-Mousson - Espace Montrichard",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-175229",
+      "ville": "pont-a-mousson",
+      "location": {
+        "longitude": 6.03929,
+        "latitude": 48.9126
+      },
+      "metadata": {
+        "address": " Chemin de Montrichard, 54700 Pont-\u00e0-Mousson",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "En attente de pr\u00e9cisions",
+          "mardi": "En attente de pr\u00e9cisions",
+          "mercredi": "En attente de pr\u00e9cisions",
+          "jeudi": "En attente de pr\u00e9cisions",
+          "vendredi": "En attente de pr\u00e9cisions",
+          "samedi": "En attente de pr\u00e9cisions",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[175229]",
+      "gid": "2026"
+    },
+    {
+      "departement": "54",
+      "nom": "Lun\u00e9ville - Salle le r\u00e9servoir",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-165799",
+      "ville": "luneville",
+      "location": {
+        "longitude": 6.50407,
+        "latitude": 48.5928
+      },
+      "metadata": {
+        "address": "2 Cours de Verdun, 54300 Lun\u00e9ville",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "14:00-19:00",
+          "mardi": "09:00-13:00/14:00-19:00",
+          "mercredi": "09:00-13:00/14:00-19:00",
+          "jeudi": "09:00-13:00/14:00-19:00",
+          "vendredi": "09:00-13:00/14:00-19:00",
+          "samedi": "non pr\u00e9cis\u00e9",
+          "dimanche": "non pr\u00e9cis\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[165799]",
+      "gid": "1082"
+    },
+    {
+      "departement": "54",
+      "nom": "Tomblaine - Salle St\u00e9phane HESSEL",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163352",
+      "ville": "tomblaine",
+      "location": {
+        "longitude": 6.21159,
+        "latitude": 48.6858
+      },
+      "metadata": {
+        "address": " Bd Henri Barbusse, 54510 Tomblaine",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "9:00-13:00/14:00-18:00",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "9:00-13:00/14:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[163352]",
+      "gid": "1272"
+    },
+    {
+      "departement": "54",
+      "nom": "Vandoeuvre - Locaux SOS M\u00e9decins",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163347",
+      "ville": "vandoeuvre-les-nancy",
+      "location": {
+        "longitude": 6.18291,
+        "latitude": 48.6597
+      },
+      "metadata": {
+        "address": "14 Av Jeanne d'Arc, 54500 Vand\u0153uvre-l\u00e8s-Nancy",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "09:00-13:00/14:00-18:00",
+          "mardi": "09:00-13:00/14:00-18:00",
+          "mercredi": "09:00-13:00/14:00-18:00",
+          "jeudi": "09:00-13:00/14:00-18:00",
+          "vendredi": "09:00-13:00/14:00-18:00",
+          "samedi": "non pr\u00e9cis\u00e9",
+          "dimanche": "non pr\u00e9cis\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[163347]",
+      "gid": "875"
+    },
+    {
+      "departement": "54",
+      "nom": "CH de Pont-\u00e0-Mousson",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163827",
+      "ville": "pont-a-mousson",
+      "location": {
+        "longitude": 6.05115,
+        "latitude": 48.9058
+      },
+      "metadata": {
+        "address": "1 Place Colombe, 54700 Pont-\u00e0-Mousson",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "non renseign\u00e9",
+          "mardi": "non renseign\u00e9",
+          "mercredi": "non renseign\u00e9",
+          "jeudi": "non renseign\u00e9",
+          "vendredi": "non renseign\u00e9",
+          "samedi": "non renseign\u00e9",
+          "dimanche": "non renseign\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[163827]",
+      "gid": "1155"
+    },
+    {
+      "departement": "54",
+      "nom": "CHI de Pompey",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163828",
+      "ville": "pompey",
+      "location": {
+        "longitude": 6.1201,
+        "latitude": 48.7648
+      },
+      "metadata": {
+        "address": "3 Rue de l'Avant-garde, 54340 Pompey",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "non renseign\u00e9",
+          "mardi": "non renseign\u00e9",
+          "mercredi": "non renseign\u00e9",
+          "jeudi": "non renseign\u00e9",
+          "vendredi": "non renseign\u00e9",
+          "samedi": "non renseign\u00e9",
+          "dimanche": "non renseign\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[163828]",
+      "gid": "1156"
+    },
+    {
+      "departement": "54",
+      "nom": "Centre de vaccination de Toul",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-165822",
+      "ville": "toul",
+      "location": {
+        "longitude": 5.89379,
+        "latitude": 48.6726
+      },
+      "metadata": {
+        "address": "7 Rue de Hamm, 54200 Toul",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "08:30-12:00 / 13:00-17:00",
+          "mardi": "08:30-12:00 / 13:00-17:00",
+          "mercredi": "08:30-12:00 / 13:00-17:00",
+          "jeudi": "08:30-12:00 / 13:00-17:00",
+          "vendredi": "08:30-12:00 / 13:00-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[165822]",
+      "gid": "1149"
+    },
+    {
+      "departement": "54",
+      "nom": "Villers - Centre du Placieux",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163348",
+      "ville": "villers-les-nancy",
+      "location": {
+        "longitude": 6.16025,
+        "latitude": 48.673
+      },
+      "metadata": {
+        "address": "16 Bd Docteur Cattenoz, 54600 Villers-l\u00e8s-Nancy",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "13:00-18:00",
+          "mardi": "13:00-18:00",
+          "mercredi": "13:00-18:00",
+          "jeudi": "13:00-18:00",
+          "vendredi": "13:00-18:00",
+          "samedi": "non pr\u00e9cis\u00e9",
+          "dimanche": "non pr\u00e9cis\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[163348]",
+      "gid": "876"
+    },
+    {
+      "departement": "54",
+      "nom": "Saint-Max - Ch\u00e2teau du Pont de la Meurthe",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163349",
+      "ville": "saint-max",
+      "location": {
+        "longitude": 6.20408,
+        "latitude": 48.6995
+      },
+      "metadata": {
+        "address": "2 Av Carnot, 54130 Saint-Max",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "09:00-13:00/14:00-17:30",
+          "mardi": "09:00-13:00/14:00-17:30",
+          "mercredi": "09:00-13:00/14:00-17:30",
+          "jeudi": "09:00-13:00/14:00-17:30",
+          "vendredi": "09:00-13:00/14:00-17:30",
+          "samedi": "non pr\u00e9cis\u00e9",
+          "dimanche": "non pr\u00e9cis\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[163349]",
+      "gid": "880"
+    },
+    {
+      "departement": "54",
+      "nom": "Centre Hospitalier Mont Saint Martin (3\u00e8me \u00e9tage)",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-165708",
+      "ville": "mont-saint-martin",
+      "location": {
+        "longitude": 5.78087,
+        "latitude": 49.5374
+      },
+      "metadata": {
+        "address": "4 Rue Alfred Labb\u00e9, 54350 Mont-Saint-Martin",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "14:00-17:00",
+          "mardi": "9:00-12:00/14:00-17:00",
+          "mercredi": "9:00-12:00/14:00-17:00",
+          "jeudi": "9:00-12:00/14:00-17:00",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[165708]",
+      "gid": "1084"
+    },
+    {
+      "departement": "54",
+      "nom": "Nancy - Centre Prouv\u00e9",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163350",
+      "ville": "nancy",
+      "location": {
+        "longitude": 6.17679,
+        "latitude": 48.6876
+      },
+      "metadata": {
+        "address": "1 Pl de la Republique, 54000 Nancy",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "09:00-13:00/14:00-18:00",
+          "mardi": "09:00-13:00/14:00-18:00",
+          "mercredi": "09:00-13:00/14:00-18:00",
+          "jeudi": "09:00-13:00/14:00-18:00",
+          "vendredi": "09:00-13:00/14:00-18:00",
+          "samedi": "non pr\u00e9cis\u00e9",
+          "dimanche": "non pr\u00e9cis\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[163350]",
+      "gid": "874"
+    },
+    {
+      "departement": "54",
+      "nom": "CH de Toul",
+      "url": "https://partners.doctolib.fr/hopital-public/toul/centre-de-vaccination-de-toul",
+      "ville": "toul",
+      "location": {
+        "longitude": 5.88705,
+        "latitude": 48.675
+      },
+      "metadata": {
+        "address": " Rue des Teinturiers, 54200 Toul",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "08:30-12:00/13:30-17:00",
+          "mardi": "08:30-12:00/13:30-17:00",
+          "mercredi": "08:30-12:00/13:30-17:00",
+          "jeudi": "08:30-12:00/13:30-17:00",
+          "vendredi": "08:30-12:00/13:30-17:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242386[]",
+      "gid": "1341"
+    },
+    {
+      "departement": "54",
+      "nom": "Centre de vaccination de LONGWY",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-167650",
+      "ville": "cosnes-et-romain",
+      "location": {
+        "longitude": 5.75398,
+        "latitude": 49.5278
+      },
+      "metadata": {
+        "address": "189 Rue de Lorraine, 54400 Cosnes-et-Romain",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "non renseign\u00e9",
+          "mardi": "non renseign\u00e9",
+          "mercredi": "non renseign\u00e9",
+          "jeudi": "non renseign\u00e9",
+          "vendredi": "non renseign\u00e9",
+          "samedi": "non renseign\u00e9",
+          "dimanche": "non renseign\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[167650]",
+      "gid": "1335"
+    },
+    {
+      "departement": "54",
+      "nom": "Pharmacie Du Village",
+      "url": "https://mapharma.net/54460",
+      "ville": "liverdun",
+      "location": null,
+      "metadata": {
+        "address": "16 rue de la gare 54460 LIVERDUN",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "54460-0"
+    },
+    {
+      "departement": "54",
+      "nom": "Pharmacie Gambetta",
+      "url": "https://mapharma.net/54200",
+      "ville": "toul",
+      "location": null,
+      "metadata": {
+        "address": "1 rue Gambetta 54200 TOUL",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "54200-0"
+    },
+    {
+      "departement": "54",
+      "nom": "Pharmacie De La Dermoyse",
+      "url": "https://mapharma.net/54120",
+      "ville": "baccarat",
+      "location": null,
+      "metadata": {
+        "address": "12 rue Adrien Michaut 54120 BACCARAT",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "54120-0"
+    },
+    {
+      "departement": "54",
+      "nom": "Pharmacie Chevalier-Pax",
+      "url": "https://mapharma.net/54700",
+      "ville": "pont-a-mousson",
+      "location": null,
+      "metadata": {
+        "address": "4 rue Victor Hugo 54700 PONT A MOUSSON",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "54700-0"
+    },
+    {
+      "departement": "54",
+      "nom": "Selarl Pharmacie De La Vezouze",
+      "url": "https://mapharma.net/54300",
+      "ville": "luneville",
+      "location": null,
+      "metadata": {
+        "address": "15 rue Chanzy 54300 LUNEVILLE",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "54300-0"
+    },
+    {
+      "departement": "54",
+      "nom": "Pharmacie Hamon",
+      "url": "https://mapharma.net/54520",
+      "ville": "laxou",
+      "location": null,
+      "metadata": {
+        "address": "85 Avenue de la Lib\u00e9ration 54520 LAXOU",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "54520-0"
+    },
+    {
+      "departement": "54",
+      "nom": "Pharmacie De La Cathedrale",
+      "url": "https://mapharma.net/54000",
+      "ville": "nancy",
+      "location": null,
+      "metadata": {
+        "address": "59 rue Saint Georges 54000 NANCY",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "54000-0"
+    },
+    {
+      "departement": "54",
+      "nom": "Pharmacie Saluzzi",
+      "url": "https://mapharma.net/54790",
+      "ville": "mancieulles",
+      "location": null,
+      "metadata": {
+        "address": "10 avenue de la R\u00e9publique 54790 MANCIEULLES",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "54790-0"
+    },
+    {
+      "departement": "54",
+      "nom": "Pharmacie Du Plateau",
+      "url": "https://mapharma.net/54350",
+      "ville": "mont-saint-martin",
+      "location": null,
+      "metadata": {
+        "address": "85 route de Longwy 54350 MONT SAINT MARTIN",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "54350-0"
+    },
+    {
+      "departement": "54",
+      "nom": "Pharmacie Des Nations",
+      "url": "https://mapharma.net/54500-1",
+      "ville": "vandoeuvre-les-nancy",
+      "location": null,
+      "metadata": {
+        "address": "23 Boulevard de l'EuropeCCial des nations 54500 VANDOEUVRE LES NANCY",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "54500-1"
+    },
+    {
+      "departement": "54",
+      "nom": "Pharmacie De La Fontaine",
+      "url": "https://mapharma.net/54570",
+      "ville": "foug",
+      "location": null,
+      "metadata": {
+        "address": "10, rue Fran\u00e7ois Mitterrand 54570 FOUG",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "54570-0"
+    },
+    {
+      "departement": "54",
+      "nom": "Pharmacie Du Velodrome",
+      "url": "https://mapharma.net/54500-2",
+      "ville": "vandoeuvre-les-nancy",
+      "location": null,
+      "metadata": {
+        "address": "157b, avenue du G\u00e9n\u00e9ral Leclerc 54500 VANDOEUVRE LES NANCY",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "54500-2"
+    },
+    {
+      "departement": "54",
+      "nom": "Pharmacie Mellinger",
+      "url": "https://mapharma.net/54190",
+      "ville": "villerupt",
+      "location": null,
+      "metadata": {
+        "address": "24 rue Carnot 54190 VILLERUPT",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "54190-0"
+    },
+    {
+      "departement": "54",
+      "nom": "Centres de vaccination Covid-19 de Meurthe-et-Moselle (r\u00e9serv\u00e9s aux professionnels de sant\u00e9)",
+      "url": "https://partners.doctolib.fr/hopital-public/nancy/chru-nancy-centre-de-vaccination-covid-19-reserve-aux-professionnels-de-sante?pid=practice-178399",
+      "ville": "laxou",
+      "location": {
+        "longitude": 6.1407442,
+        "latitude": 48.6787438
+      },
+      "metadata": {
+        "address": "1 Rue Docteur Archambault, 54520 Laxou",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "09:00-12:00, 13:00-16:45",
+          "mardi": "09:00-12:00, 13:00-16:45",
+          "mercredi": "09:00-12:00, 13:00-16:45",
+          "jeudi": "09:00-12:00, 13:00-16:45",
+          "vendredi": "09:00-12:00, 13:00-16:45",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240596[178399]",
+      "gid": "d240596"
+    }
+  ]
+}

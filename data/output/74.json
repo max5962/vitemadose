@@ -1,0 +1,829 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-12T09:04:10.798403+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "74",
+      "nom": "Evian - Palais des festivit\u00e9s",
+      "url": "https://partners.doctolib.fr/centre-de-sante/evian-les-bains/centre-de-vaccination-covid-ville-d-evian?pid=practice-176805",
+      "ville": "evian-les-bains",
+      "location": {
+        "longitude": 6.5871,
+        "latitude": 46.4001
+      },
+      "metadata": {
+        "address": " Place Charles cottet, 74500 \u00c9vian-les-Bains",
+        "business_hours": {
+          "lundi": "09:00-12:30/14:00-17:30",
+          "mardi": "09:00-12:30/14:00-17:30",
+          "mercredi": "09:00-12:30/14:00-17:30",
+          "jeudi": "09:00-12:30/14:00-17:30",
+          "vendredi": "09:00-12:30/14:00-17:30",
+          "samedi": "09:00-12:30/14:00-17:30",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-12T14:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 127,
+      "internal_id": "258441[176805]",
+      "gid": "1957"
+    },
+    {
+      "departement": "74",
+      "nom": "CHATEL",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/chatel-74390/centre-de-vaccination-mairie-de-chatel/centre-de-vaccination-mairie-de-chatel?cabinet=18781&specialty=496",
+      "ville": "chatel",
+      "location": {
+        "longitude": 6.84069,
+        "latitude": 46.2679
+      },
+      "metadata": {
+        "address": " place de l'\u00e9glise (parking souterrain), 74390 Ch\u00e2tel",
+        "phone_number": "+33645642231",
+        "business_hours": {
+          "lundi": "8:30-12:30/14:00-18:00",
+          "mardi": "8:30-12:30/14:00-18:00",
+          "mercredi": "8:30-12:30/14:00-18:00",
+          "jeudi": "8:30-12:30/14:00-18:00",
+          "vendredi": "8:30-12:30",
+          "samedi": "10:00-14:00",
+          "dimanche": "10:00-14:00"
+        }
+      },
+      "prochain_rdv": "2021-04-12T15:15:00.000000+0200",
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 350,
+      "internal_id": null,
+      "gid": "2145"
+    },
+    {
+      "departement": "74",
+      "nom": "LA ROCHE SUR FORON - ROCHEXPO",
+      "url": "https://partners.doctolib.fr/centre-de-sante/la-roche-sur-foron/centre-departemental-de-vaccination-covid-19-rochexpo?pid=practice-179552",
+      "ville": "la-roche-sur-foron",
+      "location": {
+        "longitude": 6.30773,
+        "latitude": 46.0734
+      },
+      "metadata": {
+        "address": "59 Rue des Centaures, 74800 La Roche-sur-Foron",
+        "business_hours": {
+          "lundi": "09:00-13:00/14:00-19:00",
+          "mardi": "09:00-13:00/14:00-19:00",
+          "mercredi": "09:00-13:00/14:00-19:00",
+          "jeudi": "09:00-13:00/14:00-19:00",
+          "vendredi": "09:00-13:00/14:00-19:00",
+          "samedi": "09:00-13:00/14:00-19:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-13T16:48:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 279,
+      "internal_id": "262536[179552]",
+      "gid": "2209"
+    },
+    {
+      "departement": "74",
+      "nom": "Maison de sant\u00e9 de la vall\u00e9e d'Aulps",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-jean-d'aulps/centre-de-vaccination-covid-19-du-haut-chablais",
+      "ville": "saint-jean-daulps",
+      "location": {
+        "longitude": 6.6594,
+        "latitude": 46.2299
+      },
+      "metadata": {
+        "address": "58 Imp Alexis Leaud, 74430 Saint-Jean-d'Aulps",
+        "phone_number": "+33612529410",
+        "business_hours": {
+          "lundi": "09:00-13:00/14:00-18:00",
+          "mardi": "09:00-13:00/14:00-18:00",
+          "mercredi": "09:00-13:00/14:00-18:00",
+          "jeudi": "09:00-13:00/14:00-18:00",
+          "vendredi": "09:00-13:00/14:00-18:00",
+          "samedi": "08:00-13:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-15T16:20:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "242604[]",
+      "gid": "730"
+    },
+    {
+      "departement": "74",
+      "nom": "SAMOENS - Espace Le Bois aux Dames",
+      "url": "https://www.doctolib.fr/centre-de-sante/samoens/centre-de-vaccination-covid-19-ville-de-samoens",
+      "ville": "samoens",
+      "location": {
+        "longitude": 6.71499,
+        "latitude": 46.0798
+      },
+      "metadata": {
+        "address": "600 Rte du Lac aux Dames, 74340 Samo\u00ebns",
+        "phone_number": "+33964100409",
+        "business_hours": {
+          "lundi": "10:00-18:00",
+          "mardi": "10:00-18:00",
+          "mercredi": "10:00-18:00",
+          "jeudi": "10:00-18:00",
+          "vendredi": "10:00-18:00",
+          "samedi": "10:00-18:00",
+          "dimanche": "10:00-18:00"
+        }
+      },
+      "prochain_rdv": "2021-04-21T14:10:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 81,
+      "internal_id": "264059[]",
+      "gid": "2267"
+    },
+    {
+      "departement": "74",
+      "nom": "Centre d'examens de sant\u00e9 - CPAM",
+      "url": "https://www.doctolib.fr/centre-de-sante/annecy/centre-de-vaccination-covid-19-cpam-haute-savoie",
+      "ville": "annecy",
+      "location": {
+        "longitude": 6.12229,
+        "latitude": 45.8949
+      },
+      "metadata": {
+        "address": "10 Av Lucien Boschetti, 74000 Annecy",
+        "business_hours": {
+          "lundi": "7:45-16:00",
+          "mardi": "7:45-16:00",
+          "mercredi": "7:45-16:00",
+          "jeudi": "7:45-16:00",
+          "vendredi": "7:45-16:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-26T13:20:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 138,
+      "internal_id": "263085[]",
+      "gid": "2147"
+    },
+    {
+      "departement": "74",
+      "nom": "Centre de Vaccination COVID-19 du Genevois",
+      "url": "https://partners.doctolib.fr/centre-de-sante/archamps/centre-de-vaccination-covid-19-du-genevois",
+      "ville": "archamps",
+      "location": {
+        "longitude": 6.1230061,
+        "latitude": 46.136496
+      },
+      "metadata": {
+        "address": "112 Rue Richard Gurley Drew, 74160 Archamps",
+        "phone_number": "+33450355090",
+        "business_hours": {
+          "lundi": "09:00-12:00",
+          "mardi": "09:00-12:00",
+          "mercredi": "09:00-12:00",
+          "jeudi": "09:00-12:00",
+          "vendredi": "09:00-12:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-28T11:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 78,
+      "internal_id": "263003[]",
+      "gid": "d263003"
+    },
+    {
+      "departement": "74",
+      "nom": "LA BALME DE SILLINGY - HALLE DES SPORTS",
+      "url": "https://partners.doctolib.fr/centre-de-sante/la-balme-de-sillingy/centre-de-vaccination-covid-19-la-balme-de-sillingy-halle-de-sport?pid=practice-181077",
+      "ville": "la-balme-de-sillingy",
+      "location": {
+        "longitude": 6.03444,
+        "latitude": 45.9643
+      },
+      "metadata": {
+        "address": "31 sentier du Lac, 74330 La Balme-de-Sillingy",
+        "phone_number": "+33787551808",
+        "business_hours": {
+          "lundi": "09:00-13:00/14:00-18:00",
+          "mardi": "09:00-13:00/14:00-18:00",
+          "mercredi": "09:00-13:00/14:00-18:00",
+          "jeudi": "09:00-13:00/14:00-18:00",
+          "vendredi": "09:00-13:00/14:00-18:00",
+          "samedi": "09:00-13:00/14:00-18:00",
+          "dimanche": "Ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-29T14:24:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 74,
+      "internal_id": "264503[181077]",
+      "gid": "2281"
+    },
+    {
+      "departement": "74",
+      "nom": "Bonneville - AGORA",
+      "url": "https://partners.doctolib.fr/centre-de-sante/bonneville/centre-de-vaccination-agora-bonneville",
+      "ville": "bonneville",
+      "location": {
+        "longitude": 6.41368,
+        "latitude": 46.0778
+      },
+      "metadata": {
+        "address": "42 Avenue de la Gare, 74130 Bonneville",
+        "phone_number": "+33450073249",
+        "business_hours": {
+          "lundi": "09:00-13:00/14:00-18:00",
+          "mardi": "09:00-13:00/14:00-18:00",
+          "mercredi": "09:00-13:00/14:00-18:00",
+          "jeudi": "09:00-13:00/14:00-18:00",
+          "vendredi": "09:00-13:00/14:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-30T17:15:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 3,
+      "internal_id": "243621[]",
+      "gid": "960"
+    },
+    {
+      "departement": "74",
+      "nom": "Thonon - Boulodrome Municipal",
+      "url": "https://partners.doctolib.fr/centre-de-sante/thonon-les-bains/centre-de-vaccination-covid-thonon-les-bains",
+      "ville": "thonon-les-bains",
+      "location": {
+        "longitude": 6.50661,
+        "latitude": 46.3817
+      },
+      "metadata": {
+        "address": " Rte du Ranch, 74200 Thonon-les-Bains",
+        "phone_number": "+33450336233",
+        "business_hours": {
+          "lundi": "09:00-13:00/14:00-18:00",
+          "mardi": "09:00-13:00/14:00-18:00",
+          "mercredi": "09:00-13:00/14:00-18:00",
+          "jeudi": "09:00-13:00/14:00-18:00",
+          "vendredi": "09:00-13:00/14:00-18:00",
+          "samedi": "09:00-13:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-03T15:15:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 271,
+      "internal_id": "243127[]",
+      "gid": "757"
+    },
+    {
+      "departement": "74",
+      "nom": "Centre de vaccination de Sallanches - Salle L\u00e9on Curral",
+      "url": "https://partners.doctolib.fr/centre-de-sante/sallanches/centre-de-vaccination-covid-19-ville-de-sallanches",
+      "ville": "sallanches",
+      "location": {
+        "longitude": 6.64039,
+        "latitude": 45.933
+      },
+      "metadata": {
+        "address": " route du verney, 74700 Sallanches",
+        "phone_number": "+33450910388",
+        "business_hours": {
+          "lundi": "09:00-13:00/14:00-18:00",
+          "mardi": "09:00-13:00/14:00-18:00",
+          "mercredi": "09:00-13:00/14:00-18:00",
+          "jeudi": "09:00-13:00/14:00-18:00",
+          "vendredi": "09:00-13:00/14:00-18:00",
+          "samedi": "09:00-13:00/14:00-18:00",
+          "dimanche": "09:00-13:00/14:00-18:00"
+        }
+      },
+      "prochain_rdv": "2021-05-03T16:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 209,
+      "internal_id": "243248[]",
+      "gid": "826"
+    },
+    {
+      "departement": "74",
+      "nom": "CENTRE HOSPITALIER  ANNECY GENEVOIS",
+      "url": "https://partners.doctolib.fr/hopital-public/annecy/centre-hospitalier-annecy-genevois-centre-de-depistage-et-de-vaccination-covid-19?pid=practice-163436%3fspeciality_id%3d5494",
+      "ville": "epagny-metz-tessy",
+      "location": {
+        "longitude": 6.11774,
+        "latitude": 45.9342
+      },
+      "metadata": {
+        "address": "1  avenue de l'h\u00f4pital, 74370 Epagny Metz-Tessy",
+        "phone_number": "+33456497427",
+        "business_hours": {
+          "lundi": "08:00-18:00",
+          "mardi": "08:00-18:00",
+          "mercredi": "08:00-18:00",
+          "jeudi": "08:00-18:00",
+          "vendredi": "08:00-18:00",
+          "samedi": "08:00-12:00",
+          "dimanche": "Ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-05T14:54:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 30,
+      "internal_id": "241468[163436]",
+      "gid": "235"
+    },
+    {
+      "departement": "74",
+      "nom": "M\u00e9dip\u00f4le de Cluses",
+      "url": "https://partners.doctolib.fr/centre-de-sante/cluses/centre-de-vaccination-covid-19-ville-de-cluses",
+      "ville": "cluses",
+      "location": {
+        "longitude": 6.58821,
+        "latitude": 46.0633
+      },
+      "metadata": {
+        "address": "35 Bd du Chevran, 74300 Cluses",
+        "phone_number": "+33450966900",
+        "business_hours": {
+          "lundi": "10:00-18:00",
+          "mardi": "10:00-18:00",
+          "mercredi": "10:00-18:00",
+          "jeudi": "10:00-18:00",
+          "vendredi": "10:00-18:00",
+          "samedi": "10:00-18:00",
+          "dimanche": "10:00-18:00"
+        }
+      },
+      "prochain_rdv": "2021-05-10T13:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 33,
+      "internal_id": "243146[]",
+      "gid": "743"
+    },
+    {
+      "departement": "74",
+      "nom": "H\u00f4pitaux du Mont-Blanc - Institut de formation des aides-soignants",
+      "url": "https://partners.doctolib.fr/hopital-public/sallanches/centre-de-vaccination-covid-hopitaux-du-pays-du-mont-blanc-hpmb?pid=practice-166360",
+      "ville": "sallanches",
+      "location": {
+        "longitude": 6.64275,
+        "latitude": 45.9355
+      },
+      "metadata": {
+        "address": "380 Rue de l\u2019Hopital, 74700 Sallanches",
+        "phone_number": "+33458380025",
+        "business_hours": {
+          "lundi": "10:00-18:00",
+          "mardi": "10:00-18:00",
+          "mercredi": "10:00-18:00",
+          "jeudi": "10:00-18:00",
+          "vendredi": "10:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-11T10:00:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 13,
+      "internal_id": "244868[166360]",
+      "gid": "1330"
+    },
+    {
+      "departement": "74",
+      "nom": "Pharmacie Du Mortier",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-du-mortier-valserhone",
+      "ville": "valserhone",
+      "location": {
+        "longitude": 2.4819234,
+        "latitude": 50.5623406
+      },
+      "metadata": {
+        "address": "3 Rue Joseph Bertola, 01200 Valserh\u00f4ne",
+        "phone_number": "+33450482806",
+        "business_hours": null
+      },
+      "prochain_rdv": "2021-12-09T10:00:00+00:00",
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "d958b43b"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "74",
+      "nom": "Centre de vaccination du Genevois",
+      "url": "https://doctolib.fr/centre-de-sante/archamps/centre-de-vaccination-covid-19-du-genevois",
+      "ville": "archamps",
+      "location": {
+        "longitude": 6.123,
+        "latitude": 46.1362
+      },
+      "metadata": {
+        "address": "155 R Ada Byron, 74160 Archamps",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "09:00-12:00/14:00-17:30",
+          "jeudi": "09:00-12:00/14:00-17:30",
+          "vendredi": "09:00-12:00/14:00-17:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "2247"
+    },
+    {
+      "departement": "74",
+      "nom": "Chamonix - Le majestic",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chamonix-mont-blanc/centre-de-vaccination-covid-ville-de-chamonix?pid=practice-176984",
+      "ville": "chamonix-mont-blanc",
+      "location": {
+        "longitude": 6.8666,
+        "latitude": 45.9228
+      },
+      "metadata": {
+        "address": "241 All du Majestic, 74400 Chamonix-Mont-Blanc",
+        "phone_number": "+33450546750",
+        "business_hours": {
+          "lundi": "08:45-12:00/13:45-18:00",
+          "mardi": "08:45-12:00/13:45-18:00",
+          "mercredi": "08:45-12:00/13:45-18:00",
+          "jeudi": "08:45-12:00/13:45-18:00",
+          "vendredi": "08:45-12:00/13:45-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "258806[176984]",
+      "gid": "1988"
+    },
+    {
+      "departement": "74",
+      "nom": "CAP PERIAZ ANNECY",
+      "url": "https://partners.doctolib.fr/centre-de-sante/annecy/centre-de-vaccination-covid-cap-periaz-annecy",
+      "ville": "annecy",
+      "location": {
+        "longitude": 6.08588,
+        "latitude": 45.874
+      },
+      "metadata": {
+        "address": "100 Avenue de Periaz, 74600 Annecy",
+        "phone_number": "+33480481130",
+        "business_hours": {
+          "lundi": "09:00-13:00/14:00-18:00",
+          "mardi": "09:00-13:00/14:00-18:00",
+          "mercredi": "09:00-13:00/14:00-18:00",
+          "jeudi": "09:00-13:00/14:00-18:00",
+          "vendredi": "09:00-13:00/14:00-18:00",
+          "samedi": "09:00-13:00/14:00-18:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243531[]",
+      "gid": "785"
+    },
+    {
+      "departement": "74",
+      "nom": "H\u00f4pitaux du L\u00e9man - Espace g\u00e9riatrique",
+      "url": "https://partners.doctolib.fr/etablissement-de-prevention/thonon-les-bains/centre-de-vaccination-covid19-hopitaux-du-leman?pid=practice-162698",
+      "ville": "thonon-les-bains",
+      "location": {
+        "longitude": 6.48233,
+        "latitude": 46.3579
+      },
+      "metadata": {
+        "address": "11 Che du Morillon, 74200 Thonon-les-Bains",
+        "phone_number": "+33450832421",
+        "business_hours": {
+          "lundi": "10:00-18:00",
+          "mardi": "10:00-18:00",
+          "mercredi": "10:00-18:00",
+          "jeudi": "10:00-18:00",
+          "vendredi": "10:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243729[162698]",
+      "gid": "1331"
+    },
+    {
+      "departement": "74",
+      "nom": "Centre de vaccination de Rumilly Salle des f\u00eates municipale",
+      "url": "https://partners.doctolib.fr/hopital-public/rumilly/centre-de-vaccination-covid-ch-gabriel-deplante?pid=practice-164564",
+      "ville": "rumilly",
+      "location": {
+        "longitude": 5.93889,
+        "latitude": 45.8634
+      },
+      "metadata": {
+        "address": "1 Rue du Sophora, 74150 Rumilly",
+        "phone_number": "+33450018399",
+        "business_hours": {
+          "lundi": "14:00-18:00",
+          "mardi": "08:30-12:30/14:00-18:00",
+          "mercredi": "08:30-12:30/14:00-18:00",
+          "jeudi": "08:30-12:30/14:00-18:00",
+          "vendredi": "08:30-12:30/14:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242593[164564]",
+      "gid": "1168"
+    },
+    {
+      "departement": "74",
+      "nom": "Centre hospitalier Alpes L\u00e9man",
+      "url": "https://partners.doctolib.fr/hopital-public/contamine-sur-arve/chal-vaccin-covid?pid=practice-165876",
+      "ville": "contamine-sur-arve",
+      "location": {
+        "longitude": 6.32059,
+        "latitude": 46.141
+      },
+      "metadata": {
+        "address": "558 Rte de Findrol, 74130 Contamine-sur-Arve",
+        "phone_number": "+33450823334",
+        "business_hours": {
+          "lundi": "10:00-18:00",
+          "mardi": "10:00-18:00",
+          "mercredi": "10:00-18:00",
+          "jeudi": "10:00-18:00",
+          "vendredi": "10:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244399[165876]",
+      "gid": "1332"
+    },
+    {
+      "departement": "74",
+      "nom": "Complexe Martin Luther King",
+      "url": "https://partners.doctolib.fr/centre-de-sante/annemasse/centre-de-vaccination-covid-annemasse-complexe-martin-luther-king",
+      "ville": "annemasse",
+      "location": {
+        "longitude": 6.23831,
+        "latitude": 46.1985
+      },
+      "metadata": {
+        "address": " rue du Dr Francis Baud, 74100 Annemasse",
+        "phone_number": "+33450336233",
+        "business_hours": {
+          "lundi": "08:00-13:00/14:00-18:00",
+          "mardi": "08:00-13:00/14:00-18:00",
+          "mercredi": "08:00-13:00/14:00-18:00",
+          "jeudi": "08:00-13:00/14:00-18:00",
+          "vendredi": "08:00-13:00/14:00-18:00",
+          "samedi": "08:00-13:00/14:00-18:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243203[]",
+      "gid": "761"
+    },
+    {
+      "departement": "74",
+      "nom": "Centre Hospitalier St Julien en Genevois",
+      "url": "https://partners.doctolib.fr/hopital-public/annecy/centre-hospitalier-annecy-genevois-centre-de-depistage-et-de-vaccination-covid-19?pid=practice-163575%3fspeciality_id%3d5494",
+      "ville": "saint-julien-en-genevois",
+      "location": {
+        "longitude": 6.07968,
+        "latitude": 46.1468
+      },
+      "metadata": {
+        "address": " Chemin du Loup, 74160 Saint-Julien-en-Genevois",
+        "phone_number": "+33456497427",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "09:00-12:00",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "09:00-12:00",
+          "vendredi": "09:00-12:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241468[163575]",
+      "gid": "768"
+    },
+    {
+      "departement": "74",
+      "nom": "THONES - Espace Coeur des Vall\u00e9es",
+      "url": "https://partners.doctolib.fr/centre-de-sante/thones/centre-de-vaccination-covid-19-thones",
+      "ville": "thones",
+      "location": {
+        "longitude": 6.32231,
+        "latitude": 45.8816
+      },
+      "metadata": {
+        "address": "2 R du Pre de Foire, 74230 Th\u00f4nes",
+        "phone_number": "+33450021210",
+        "business_hours": {
+          "lundi": "Ferm\u00e9",
+          "mardi": "09:00-13:00/14:00-18:00",
+          "mercredi": "09:00-13:00/14:00-18:00",
+          "jeudi": "09:00-13:00/14:00-18:00",
+          "vendredi": "09:00-13:00/14:00-18:00",
+          "samedi": "09:00-13:00/14:00-18:00",
+          "dimanche": "09:00-13:00/14:00-18:00"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "258307[]",
+      "gid": "2282"
+    },
+    {
+      "departement": "74",
+      "nom": "Pharmacie Du Credo",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-du-credo--valserhone",
+      "ville": "valserhone",
+      "location": {
+        "longitude": 5.8116598,
+        "latitude": 46.1256735
+      },
+      "metadata": {
+        "address": "Avenue Mal de Lattre de Tassigny (Bellegarde-sur-Valserine), 01200 Valserh\u00f4ne",
+        "phone_number": "+33450482726",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "gid": "de296711"
+    },
+    {
+      "departement": "74",
+      "nom": "Pharmacie des Pommaries",
+      "url": "https://partners.doctolib.fr/pharmacie/annecy/pharmacie-des-pommaries",
+      "ville": "annecy",
+      "location": {
+        "longitude": 6.1448895,
+        "latitude": 45.9107036
+      },
+      "metadata": {
+        "address": "1 Rue des \u00c9coles, 74940 Annecy",
+        "phone_number": "+33450235330",
+        "business_hours": {
+          "lundi": "08:30-12:15, 14:00-19:30",
+          "mardi": "08:30-12:15, 14:00-19:30",
+          "mercredi": "08:30-12:15, 14:00-19:30",
+          "jeudi": "08:30-12:15, 14:00-19:30",
+          "vendredi": "08:30-12:15, 14:00-19:30",
+          "samedi": "08:30-12:15, 14:00-19:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "261814[]",
+      "gid": "d261814"
+    },
+    {
+      "departement": "74",
+      "nom": "Pharmacie de Menthon",
+      "url": "https://partners.doctolib.fr/pharmacie/menthon-saint-bernard/pharmacie-de-menthon",
+      "ville": "menthon-saint-bernard",
+      "location": {
+        "longitude": 6.1961528,
+        "latitude": 45.8596463
+      },
+      "metadata": {
+        "address": "2 Route de Ramponnet, 74290 Menthon-Saint-Bernard",
+        "phone_number": "+33450601255",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-19:30",
+          "mardi": "08:30-12:30, 14:30-19:30",
+          "mercredi": "08:30-12:30, 14:30-19:30",
+          "jeudi": "08:30-12:30, 14:30-19:30",
+          "vendredi": "08:30-12:30, 14:30-19:30",
+          "samedi": "08:30-12:30, 14:30-19:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "253395[]",
+      "gid": "d253395"
+    },
+    {
+      "departement": "74",
+      "nom": "Dr Arthur DE LA RUE DU CAN",
+      "url": "https://partners.doctolib.fr/medecin-generaliste/frangy/arthur-de-la-rue-de-can",
+      "ville": "frangy",
+      "location": {
+        "longitude": 5.92692299999999,
+        "latitude": 46.0185662
+      },
+      "metadata": {
+        "address": "141 Rue du Grand Pont, 74270 Frangy",
+        "phone_number": "+33450013080",
+        "business_hours": {
+          "lundi": "08:00-13:00, 14:00-19:00",
+          "mardi": "14:00-19:00",
+          "mercredi": "08:00-13:00, 14:00-19:00",
+          "jeudi": "08:00-13:00, 14:00-19:00",
+          "vendredi": "08:00-13:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "general-practitioner",
+      "appointment_count": 0,
+      "internal_id": "229318[]",
+      "gid": "d229318"
+    },
+    {
+      "departement": "74",
+      "nom": "CHAL vaccin Covid (R\u00e9serv\u00e9 aux m\u00e9decins hospitaliers CHAL)",
+      "url": "https://partners.doctolib.fr/hopital-public/contamine-sur-arve/chal-vaccin-covid-reserve-aux-medecins-hospitaliers-chal",
+      "ville": "contamine-sur-arve",
+      "location": {
+        "longitude": 6.3202342,
+        "latitude": 46.1409287
+      },
+      "metadata": {
+        "address": "558 Route de Findrol, 74130 Contamine-sur-Arve",
+        "phone_number": "+33450823190",
+        "business_hours": {
+          "lundi": "10:00-18:00",
+          "mardi": "10:00-18:00",
+          "mercredi": "10:00-18:00",
+          "jeudi": "10:00-18:00",
+          "vendredi": "10:00-18:00",
+          "samedi": "10:00-14:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "262099[]",
+      "gid": "d262099"
+    }
+  ]
+}
